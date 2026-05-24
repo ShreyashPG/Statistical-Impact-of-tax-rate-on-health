@@ -1,0 +1,3152 @@
+Diagnosed Diabetes; Female (Gender); Adults Aged 20+ Years; Crude Number; U.S. Counties; 2017
+Data downloaded on 24-September-2023
+County,State,CountyFIPS,Number,Lower Limit, Upper Limit
+Bedford City,Virginia,51515,No Data,No Data,No Data
+Shannon County,South Dakota,46113,No Data,No Data,No Data
+Wrangell-Petersburg Census Area,Alaska,02280,No Data,No Data,No Data
+Wade Hampton Census Area,Alaska,02270,No Data,No Data,No Data
+Skagway-Hoonah-Angoon,Alaska,02232,No Data,No Data,No Data
+Prince of Wales - Outer Ketchikan,Alaska,02201,No Data,No Data,No Data
+Loving County,Texas,48301,Suppressed,Suppressed,Suppressed
+Kalawao County,Hawaii,15005,Suppressed,Suppressed,Suppressed
+King County,Texas,48269,Suppressed,Suppressed,Suppressed
+Kenedy County,Texas,48261,11,6,17
+Arthur County,Nebraska,31005,12,7,20
+Petroleum County,Montana,30069,15,8,24
+Mcpherson County,Nebraska,31117,15,8,23
+Blaine County,Nebraska,31009,16,9,25
+Grant County,Nebraska,31075,18,10,29
+Thomas County,Nebraska,31171,18,10,30
+Yakutat City and Borough,Alaska,02282,19,11,32
+San Juan County,Colorado,08111,19,10,30
+Borden County,Texas,48033,19,11,31
+Clark County,Idaho,16033,20,11,33
+Mcmullen County,Texas,48311,21,11,34
+Logan County,Nebraska,31113,22,12,34
+Loup County,Nebraska,31115,22,13,33
+Slope County,North Dakota,38087,22,12,34
+Treasure County,Montana,30103,23,13,36
+Billings County,North Dakota,38007,23,13,37
+Hooker County,Nebraska,31091,24,14,39
+Harding County,New Mexico,35021,24,13,39
+Roberts County,Texas,48393,24,13,38
+Hinsdale County,Colorado,08053,25,14,41
+Mineral County,Colorado,08079,25,14,41
+Banner County,Nebraska,31007,25,14,38
+Esmeralda County,Nevada,32009,25,14,38
+Terrell County,Texas,48443,25,14,42
+Golden Valley County,Montana,30037,26,14,42
+Kent County,Texas,48263,26,14,43
+Skagway Municipality,Alaska,02230,28,15,49
+Hayes County,Nebraska,31085,28,17,45
+Wheeler County,Nebraska,31183,29,17,46
+Jones County,South Dakota,46075,29,15,49
+Glasscock County,Texas,48173,30,16,49
+Sterling County,Texas,48431,30,17,52
+Camas County,Idaho,16025,31,16,49
+Daggett County,Utah,49009,31,18,49
+Wibaux County,Montana,30109,32,17,52
+Keya Paha County,Nebraska,31103,32,19,49
+Harding County,South Dakota,46063,32,18,51
+Bristol Bay Borough,Alaska,02060,33,21,47
+Greeley County,Kansas,20071,34,19,54
+Alpine County,California,06003,35,19,58
+Prairie County,Montana,30079,36,21,55
+Carter County,Montana,30011,38,21,62
+Hyde County,South Dakota,46069,40,22,64
+Sully County,South Dakota,46119,41,22,63
+Motley County,Texas,48345,41,22,66
+Denali Borough,Alaska,02068,42,26,62
+Jackson County,Colorado,08057,42,25,69
+Kiowa County,Colorado,08061,42,22,69
+Issaquena County,Mississippi,28055,42,24,66
+Lake and Peninsula Borough,Alaska,02164,43,26,65
+Garfield County,Montana,30033,43,26,67
+Sioux County,Nebraska,31165,43,26,65
+Sheridan County,North Dakota,38083,43,24,66
+Campbell County,South Dakota,46021,44,25,71
+Foard County,Texas,48155,44,23,71
+Irion County,Texas,48235,44,25,73
+Piute County,Utah,49031,44,23,70
+Cottle County,Texas,48101,45,26,75
+Stonewall County,Texas,48433,45,25,73
+Wallace County,Kansas,20199,46,26,73
+Briscoe County,Texas,48045,46,25,74
+Throckmorton County,Texas,48447,49,28,82
+Stanton County,Kansas,20187,50,29,74
+Mccone County,Montana,30055,50,30,77
+Dundy County,Nebraska,31057,53,31,81
+Eureka County,Nevada,32011,53,32,82
+Sherman County,Oregon,41055,53,29,85
+Wheeler County,Oregon,41069,53,29,87
+Haakon County,South Dakota,46055,53,31,83
+Dolores County,Colorado,08033,54,30,93
+Hodgeman County,Kansas,20083,55,32,85
+Lane County,Kansas,20101,55,33,86
+Oldham County,Texas,48359,55,30,92
+Cheyenne County,Colorado,08017,56,33,90
+Gosper County,Nebraska,31073,56,30,91
+Oliver County,North Dakota,38065,56,32,87
+Powder River County,Montana,30075,57,35,87
+Burke County,North Dakota,38013,57,34,88
+Comanche County,Kansas,20033,58,34,91
+Garfield County,Nebraska,31071,58,36,90
+Armstrong County,Texas,48011,58,32,94
+Edwards County,Texas,48137,58,33,92
+Meagher County,Montana,30059,59,34,92
+Rock County,Nebraska,31149,59,35,88
+Dickens County,Texas,48125,59,32,96
+Daniels County,Montana,30019,60,34,96
+Divide County,North Dakota,38023,62,35,98
+Golden Valley County,North Dakota,38033,62,38,91
+Robertson County,Kentucky,21201,63,34,101
+Jerauld County,South Dakota,46073,63,33,108
+Miner County,South Dakota,46097,63,36,101
+Sanborn County,South Dakota,46111,64,35,105
+Garden County,Nebraska,31069,65,40,93
+Judith Basin County,Montana,30045,66,37,101
+Sheridan County,Kansas,20179,67,40,108
+Wichita County,Kansas,20203,67,43,97
+Culberson County,Texas,48109,67,38,107
+Rich County,Utah,49033,67,40,105
+Taliaferro County,Georgia,13265,68,40,107
+Wheatland County,Montana,30107,68,38,111
+Cimarron County,Oklahoma,40025,68,39,108
+Mellette County,South Dakota,46095,68,47,90
+Worth County,Missouri,29227,69,40,108
+De Baca County,New Mexico,35011,69,38,109
+Logan County,North Dakota,38047,69,42,104
+Gilliam County,Oregon,41021,70,38,114
+Sherman County,Texas,48421,71,40,119
+Sedgwick County,Colorado,08115,72,42,110
+Keweenaw County,Michigan,26083,72,40,118
+Towner County,North Dakota,38095,72,43,108
+Reagan County,Texas,48383,72,38,114
+Wayne County,Utah,49055,72,40,112
+Faulk County,South Dakota,46049,73,40,117
+Cochran County,Texas,48079,73,41,116
+Menard County,Texas,48327,73,41,122
+Pawnee County,Nebraska,31133,74,44,111
+Hettinger County,North Dakota,38041,74,44,112
+Haines Borough,Alaska,02100,75,44,116
+Hoonah-Angoon Census Area,Alaska,02105,75,44,118
+Frontier County,Nebraska,31063,75,47,112
+Kidder County,North Dakota,38043,76,44,115
+Buffalo County,South Dakota,46017,76,51,109
+Schleicher County,Texas,48413,76,44,122
+Niobrara County,Wyoming,56027,76,46,115
+Clark County,Kansas,20025,77,47,115
+Deuel County,Nebraska,31049,78,48,116
+Renville County,North Dakota,38075,78,47,120
+Concho County,Texas,48095,79,43,133
+Steele County,North Dakota,38091,80,51,119
+Butte County,Idaho,16023,81,45,126
+Fallon County,Montana,30025,81,48,123
+Eddy County,North Dakota,38027,81,50,121
+Griggs County,North Dakota,38039,81,50,119
+Harmon County,Oklahoma,40057,81,44,129
+Upton County,Texas,48461,81,45,131
+Highland County,Virginia,51091,81,44,132
+Wrangell City and Borough,Alaska,02275,82,48,126
+Hamilton County,Kansas,20075,82,50,124
+Boyd County,Nebraska,31015,82,50,121
+Collingsworth County,Texas,48087,82,43,138
+Chase County,Kansas,20017,83,54,130
+Greeley County,Nebraska,31077,83,55,121
+Mcpherson County,South Dakota,46089,83,45,133
+Potter County,South Dakota,46107,83,48,128
+Kiowa County,Kansas,20097,84,50,128
+Hemphill County,Texas,48211,84,44,137
+Lincoln County,Kansas,20105,85,50,131
+Lipscomb County,Texas,48295,85,46,136
+Morton County,Kansas,20129,86,52,125
+Mcintosh County,North Dakota,38051,86,52,128
+Hanson County,South Dakota,46061,86,47,136
+Franklin County,Nebraska,31061,87,52,139
+Jeff Davis County,Texas,48243,87,48,139
+Glascock County,Georgia,13125,88,50,136
+Rawlins County,Kansas,20153,88,48,140
+Bowman County,North Dakota,38011,88,51,133
+Echols County,Georgia,13101,89,49,144
+Stanley County,South Dakota,46117,89,53,142
+Crockett County,Texas,48105,89,51,152
+Perkins County,South Dakota,46105,90,53,138
+Rush County,Kansas,20165,92,55,138
+Adams County,North Dakota,38001,94,58,139
+Hand County,South Dakota,46059,94,54,151
+Hall County,Texas,48191,94,50,150
+Webster County,Georgia,13307,95,52,149
+Ness County,Kansas,20135,95,55,144
+Haskell County,Kansas,20081,96,54,147
+Perkins County,Nebraska,31135,96,63,135
+Shackelford County,Texas,48417,96,56,152
+Quitman County,Georgia,13239,97,55,152
+Douglas County,South Dakota,46043,97,55,157
+Edwards County,Kansas,20047,98,59,146
+Sutton County,Texas,48435,98,51,164
+Cheyenne County,Kansas,20023,99,58,158
+Sweet Grass County,Montana,30097,100,60,155
+Petersburg Borough,Alaska,02195,101,60,148
+Brown County,Nebraska,31017,101,65,149
+Chase County,Nebraska,31029,101,65,149
+Garfield County,Washington,53023,102,71,134
+Liberty County,Montana,30051,103,63,160
+Foster County,North Dakota,38031,103,62,155
+Harper County,Oklahoma,40059,103,58,158
+Hudspeth County,Texas,48229,103,57,162
+Aleutians East Borough,Alaska,02013,104,66,160
+Sheridan County,Montana,30091,104,63,153
+Sierra County,California,06091,105,60,170
+Hitchcock County,Nebraska,31087,105,68,152
+Nelson County,North Dakota,38063,105,67,151
+Crane County,Texas,48103,105,55,169
+Crowley County,Colorado,08025,106,63,167
+Grant County,North Dakota,38037,106,71,157
+Donley County,Texas,48129,106,58,174
+Kinney County,Texas,48271,106,57,183
+Adams County,Iowa,19003,107,65,171
+Kearny County,Kansas,20093,107,63,165
+Aurora County,South Dakota,46003,107,64,170
+Knox County,Texas,48275,107,57,173
+Graham County,Kansas,20065,108,67,155
+Coke County,Texas,48081,108,59,179
+Decatur County,Kansas,20039,110,67,158
+Mercer County,Missouri,29129,110,67,170
+Logan County,Kansas,20109,111,69,166
+Garza County,Texas,48169,111,61,186
+Trego County,Kansas,20195,112,66,168
+Nance County,Nebraska,31125,112,72,162
+Lincoln County,Idaho,16063,113,68,175
+Granite County,Montana,30039,114,67,179
+Baylor County,Texas,48023,114,60,181
+Martin County,Texas,48317,115,62,197
+Hartley County,Texas,48205,116,65,189
+Baker County,Georgia,13007,117,67,183
+Gove County,Kansas,20063,117,73,165
+Sherman County,Nebraska,31163,117,76,167
+Emmons County,North Dakota,38029,117,72,174
+Clay County,Georgia,13061,118,68,179
+Chautauqua County,Kansas,20019,118,72,176
+Smith County,Kansas,20183,118,69,181
+Jackson County,South Dakota,46071,118,84,157
+Hardeman County,Texas,48197,118,65,188
+Republic County,Kansas,20157,119,70,178
+Lyman County,South Dakota,46085,119,71,175
+Toole County,Montana,30101,120,72,179
+Pierce County,North Dakota,38069,120,74,177
+Fisher County,Texas,48151,120,68,205
+Norton City,Virginia,51720,120,69,191
+Jewell County,Kansas,20089,121,77,174
+Clark County,South Dakota,46025,121,72,183
+Scott County,Kansas,20171,123,78,184
+Woodson County,Kansas,20207,123,74,190
+Harlan County,Nebraska,31083,123,79,181
+Real County,Texas,48385,125,65,199
+Catron County,New Mexico,35003,126,79,191
+Guadalupe County,New Mexico,35019,126,71,198
+Hardin County,Illinois,17069,127,71,205
+Red Lake County,Minnesota,27125,127,77,203
+Sargent County,North Dakota,38081,127,82,177
+Oneida County,Idaho,16071,128,74,196
+Lamoure County,North Dakota,38045,128,83,184
+Ziebach County,South Dakota,46137,128,94,167
+Hansford County,Texas,48195,128,71,212
+Brown County,Illinois,17009,129,71,215
+Traverse County,Minnesota,27155,129,83,195
+Webster County,Nebraska,31181,129,86,181
+Roger Mills County,Oklahoma,40129,129,77,195
+Bent County,Colorado,08011,130,75,197
+Chattahoochee County,Georgia,13053,130,77,207
+Union County,New Mexico,35059,130,81,201
+Jim Hogg County,Texas,48247,130,70,214
+Edmunds County,South Dakota,46045,131,79,192
+Owsley County,Kentucky,21189,132,75,210
+Phillips County,Montana,30071,132,85,189
+Valley County,Nebraska,31175,132,86,184
+Dunn County,North Dakota,38025,132,84,186
+Aleutians West Census Area,Alaska,02016,133,86,193
+Bennett County,South Dakota,46007,133,101,172
+Deuel County,South Dakota,46039,134,78,209
+Cherry County,Nebraska,31031,136,95,187
+Pershing County,Nevada,32027,136,72,214
+Tyrrell County,North Carolina,37177,136,81,214
+Wells County,North Dakota,38103,136,87,189
+Kusilvak Census Area,Alaska,02158,137,87,210
+Hidalgo County,New Mexico,35023,137,82,211
+Dillingham Census Area,Alaska,02070,138,88,194
+Gray County,Kansas,20069,138,87,201
+Cavalier County,North Dakota,38019,138,90,202
+Marshall County,South Dakota,46091,140,87,215
+Bath County,Virginia,51017,140,79,221
+Schuyler County,Missouri,29197,141,77,217
+Musselshell County,Montana,30065,141,85,223
+Lincoln County,Nevada,32017,141,84,218
+Ellis County,Oklahoma,40045,141,80,227
+Mason County,Texas,48319,141,77,235
+Alfalfa County,Oklahoma,40003,143,83,220
+Brule County,South Dakota,46015,143,84,237
+Wheeler County,Texas,48483,143,80,242
+Calhoun County,Illinois,17013,144,82,230
+Adams County,Idaho,16003,145,79,220
+Bear Lake County,Idaho,16007,145,86,220
+Custer County,Idaho,16037,145,91,223
+Lake Of The Woods County,Minnesota,27077,145,86,216
+Menominee County,Wisconsin,55078,145,91,210
+Lincoln County,Colorado,08073,146,87,221
+Ouray County,Colorado,08091,146,83,232
+Scott County,Illinois,17171,146,74,240
+Elk County,Kansas,20049,146,96,208
+Gregory County,South Dakota,46053,146,83,234
+Lewis County,Idaho,16061,147,93,219
+Dixon County,Nebraska,31051,147,101,200
+Pope County,Illinois,17151,148,81,239
+Carlisle County,Kentucky,21039,148,83,230
+Kimball County,Nebraska,31105,148,96,214
+Yukon-Koyukuk Census Area,Alaska,02290,149,104,207
+Custer County,Colorado,08027,149,88,224
+Dewey County,Oklahoma,40043,149,89,222
+Gilpin County,Colorado,08047,150,84,238
+Lynn County,Texas,48305,150,87,240
+Baca County,Colorado,08009,151,92,225
+Mineral County,Montana,30061,152,94,235
+Crosby County,Texas,48107,152,82,243
+Kimble County,Texas,48267,152,84,240
+Osborne County,Kansas,20141,153,96,222
+Storey County,Nevada,32029,153,92,239
+La Salle County,Texas,48283,153,80,256
+Hamlin County,South Dakota,46057,154,97,235
+Bailey County,Texas,48017,154,84,251
+Putnam County,Missouri,29171,155,89,247
+Scotland County,Missouri,29199,155,91,241
+Childress County,Texas,48075,155,82,249
+Kittson County,Minnesota,27069,157,93,243
+Teton County,Montana,30099,157,97,241
+Thayer County,Nebraska,31169,157,107,220
+Rio Blanco County,Colorado,08103,158,93,237
+Phillips County,Kansas,20147,158,99,238
+Stafford County,Kansas,20185,158,103,234
+Dallam County,Texas,48111,158,95,247
+Floyd County,Texas,48153,158,84,255
+Winkler County,Texas,48495,158,90,253
+Garfield County,Utah,49017,158,104,236
+Florence County,Wisconsin,55037,158,90,249
+Mccook County,South Dakota,46087,160,96,237
+Carson County,Texas,48065,160,87,270
+Mills County,Texas,48333,160,87,245
+Furnas County,Nebraska,31065,161,109,225
+Gallatin County,Illinois,17059,163,91,266
+Beaver County,Utah,49001,163,95,252
+Thomas County,Kansas,20193,164,99,255
+Holt County,Missouri,29087,164,94,257
+Kingsbury County,South Dakota,46077,164,101,256
+Delta County,Texas,48119,164,93,276
+Costilla County,Colorado,08023,165,100,247
+Washington County,Colorado,08121,165,99,249
+Luce County,Michigan,26095,165,88,269
+Stark County,Illinois,17175,166,91,274
+Johnson County,Nebraska,31097,166,113,230
+Lake County,Colorado,08065,167,98,262
+Meade County,Kansas,20119,167,111,236
+Nuckolls County,Nebraska,31129,167,111,238
+Stanton County,Nebraska,31167,167,108,244
+Haskell County,Texas,48207,167,94,276
+Phillips County,Colorado,08095,168,106,245
+Lexington City,Virginia,51678,168,95,280
+San Miguel County,Colorado,08113,169,93,271
+Schley County,Georgia,13249,169,99,276
+Barber County,Kansas,20007,169,114,236
+Big Stone County,Minnesota,27011,169,103,267
+Beaver County,Oklahoma,40007,169,97,260
+Grant County,Oklahoma,40053,169,106,245
+Columbia County,Washington,53013,169,125,226
+Putnam County,Illinois,17155,170,89,277
+Ringgold County,Iowa,19159,171,105,257
+Washington County,Kansas,20201,171,110,244
+Mchenry County,North Dakota,38049,171,114,244
+Cameron County,Pennsylvania,42023,171,98,269
+Shelby County,Missouri,29205,172,103,254
+Lander County,Nevada,32015,172,104,261
+San Saba County,Texas,48411,172,94,275
+Yoakum County,Texas,48501,172,99,275
+Stevens County,Kansas,20189,173,105,260
+Knox County,Missouri,29103,173,104,264
+Powell County,Montana,30077,173,103,258
+Calhoun County,Arkansas,05013,174,107,272
+Boone County,Nebraska,31011,174,122,230
+Hot Springs County,Wyoming,56017,174,115,245
+Castro County,Texas,48069,175,97,280
+Rooks County,Kansas,20163,176,113,257
+Carter County,Missouri,29035,176,102,282
+Southeast Fairbanks Census Area,Alaska,02240,177,128,233
+Van Buren County,Iowa,19177,177,100,290
+Mahnomen County,Minnesota,27087,177,118,262
+Forest County,Pennsylvania,42053,177,99,295
+Hickman County,Kentucky,21105,178,100,284
+Brooks County,Texas,48047,178,98,297
+North Slope Borough,Alaska,02185,179,113,260
+Chouteau County,Montana,30015,179,114,250
+Stewart County,Georgia,13259,180,105,286
+Norton County,Kansas,20137,180,110,268
+Mineral County,Nevada,32021,180,108,270
+Sharkey County,Mississippi,28125,181,105,278
+Mitchell County,Texas,48335,182,95,286
+Dickey County,North Dakota,38021,183,124,256
+Greer County,Oklahoma,40055,183,114,280
+Tripp County,South Dakota,46123,183,109,283
+Craig County,Virginia,51045,184,101,291
+Swisher County,Texas,48437,185,99,294
+Edwards County,Illinois,17047,186,104,296
+Ohio County,Indiana,18115,186,96,297
+Clay County,Nebraska,31035,186,125,263
+Mitchell County,Kansas,20123,188,121,276
+Sioux County,North Dakota,38085,188,123,270
+Clinch County,Georgia,13065,189,106,312
+Cook County,Minnesota,27031,189,117,305
+Day County,South Dakota,46037,189,111,295
+Treutlen County,Georgia,13283,190,106,304
+Wheeler County,Georgia,13309,190,104,294
+Grant County,Kansas,20067,190,121,277
+Pickett County,Tennessee,47137,190,108,306
+Grant County,Minnesota,27051,191,118,295
+Hamilton County,New York,36041,191,141,252
+Cotton County,Oklahoma,40033,191,116,290
+Northwest Arctic Borough,Alaska,02188,192,128,278
+Polk County,Nebraska,31143,192,136,262
+Jefferson County,Oklahoma,40067,193,110,293
+Daviess County,Missouri,29061,194,115,292
+Bottineau County,North Dakota,38009,194,129,274
+Hancock County,Tennessee,47067,195,107,332
+Van Buren County,Tennessee,47175,195,111,302
+Audubon County,Iowa,19009,196,113,292
+Wahkiakum County,Washington,53069,196,142,262
+Nome Census Area,Alaska,02180,197,126,289
+Miller County,Georgia,13201,197,112,313
+Grant County,South Dakota,46051,197,117,298
+Harper County,Kansas,20077,199,128,287
+Ottawa County,Kansas,20143,199,128,291
+Lincoln County,Minnesota,27081,199,125,311
+Ida County,Iowa,19093,200,119,315
+Morrill County,Nebraska,31123,200,143,273
+Buena Vista City,Virginia,51530,200,109,321
+Wabaunsee County,Kansas,20197,201,124,293
+Pondera County,Montana,30073,201,124,295
+Teton County,Idaho,16081,202,120,321
+Osceola County,Iowa,19143,202,122,310
+Broadwater County,Montana,30007,202,121,315
+Norman County,Minnesota,27107,204,124,310
+Kearney County,Nebraska,31099,204,136,294
+Mora County,New Mexico,35033,204,125,312
+Rock County,Minnesota,27133,205,119,319
+Antelope County,Nebraska,31003,205,140,281
+Ochiltree County,Texas,48357,205,116,331
+Schuyler County,Illinois,17169,206,110,339
+Corson County,South Dakota,46031,206,165,247
+Lake County,Tennessee,47095,206,124,327
+Emporia City,Virginia,51595,206,117,325
+Crook County,Wyoming,56011,206,131,284
+Taylor County,Iowa,19173,207,119,324
+Benson County,North Dakota,38005,207,140,288
+Morgan County,Utah,49029,207,127,311
+Fulton County,Kentucky,21075,208,124,324
+Moody County,South Dakota,46101,208,122,320
+Moore County,Tennessee,47127,208,114,337
+Jack County,Texas,48237,208,106,332
+Kit Carson County,Colorado,08063,209,139,297
+Iron County,Wisconsin,55051,209,123,320
+Pocahontas County,Iowa,19151,210,126,317
+Ellsworth County,Kansas,20053,210,131,310
+Walworth County,South Dakota,46129,210,126,317
+Weston County,Wyoming,56045,210,149,291
+Refugio County,Texas,48391,211,125,329
+Pepin County,Wisconsin,55091,211,118,333
+Bland County,Virginia,51021,212,110,342
+Presidio County,Texas,48377,213,117,347
+Covington City,Virginia,51580,213,118,337
+Calhoun County,Georgia,13037,214,131,318
+Coal County,Oklahoma,40029,216,129,330
+Pulaski County,Illinois,17153,217,129,331
+Greenwood County,Kansas,20073,217,145,302
+Nicholas County,Kentucky,21181,218,126,329
+Galax City,Virginia,51640,218,125,364
+Alexander County,Illinois,17003,219,121,355
+Henderson County,Illinois,17071,220,118,371
+Hyde County,North Carolina,37095,220,131,341
+Ransom County,North Dakota,38073,220,150,290
+Prince of Wales-Hyder Census Area,Alaska,02198,222,134,334
+Harney County,Oregon,41025,222,115,354
+Fillmore County,Nebraska,31059,223,154,302
+Atkinson County,Georgia,13003,224,127,347
+Reynolds County,Missouri,29179,224,134,340
+Kane County,Utah,49025,224,142,340
+Tensas Parish,Louisiana,22107,225,129,333
+Grand Isle County,Vermont,50013,225,167,297
+Madison County,Montana,30057,226,143,330
+Mcculloch County,Texas,48307,226,125,380
+Nemaha County,Nebraska,31127,227,158,298
+Stillwater County,Montana,30095,228,145,345
+Ontonagon County,Michigan,26131,230,130,374
+Hutchinson County,South Dakota,46067,230,135,347
+Spink County,South Dakota,46115,231,134,359
+Lee County,Kentucky,21129,232,139,348
+Wirt County,West Virginia,54105,232,139,347
+Sheridan County,Nebraska,31161,233,178,299
+Sullivan County,Missouri,29211,234,143,353
+Bon Homme County,South Dakota,46009,234,143,356
+Goliad County,Texas,48175,234,121,374
+Turner County,South Dakota,46125,235,146,349
+Parmer County,Texas,48369,235,131,385
+Power County,Idaho,16077,236,150,343
+Dawes County,Nebraska,31045,236,164,321
+Caribou County,Idaho,16029,237,149,347
+Union County,Indiana,18161,237,132,364
+Wilkin County,Minnesota,27167,237,152,362
+Mercer County,North Dakota,38057,237,160,327
+Bracken County,Kentucky,21023,238,138,370
+Major County,Oklahoma,40093,238,142,362
+Gallatin County,Kentucky,21077,239,128,378
+Cameron Parish,Louisiana,22023,240,135,377
+Johnson County,Wyoming,56019,240,159,334
+Howard County,Nebraska,31093,241,171,321
+Woodruff County,Arkansas,05147,242,138,377
+Saguache County,Colorado,08109,242,152,360
+Pawnee County,Kansas,20145,243,166,346
+Burt County,Nebraska,31021,243,176,316
+Sullivan County,Pennsylvania,42113,243,138,387
+Dimmit County,Texas,48127,243,127,385
+Houston County,Tennessee,47083,244,131,407
+Colfax County,Nebraska,31037,245,167,335
+Trousdale County,Tennessee,47169,245,142,388
+Jefferson County,Nebraska,31095,246,172,345
+Wolfe County,Kentucky,21237,247,156,360
+Cedar County,Nebraska,31027,247,185,321
+Greenlee County,Arizona,04011,249,142,417
+Clearwater County,Minnesota,27029,249,156,352
+Butler County,Nebraska,31023,249,170,338
+Somervell County,Texas,48425,249,130,392
+Howard County,Iowa,19089,250,144,401
+White Pine County,Nevada,32033,250,164,364
+Richland County,Montana,30083,251,156,352
+Stephens County,Texas,48429,251,138,412
+Juab County,Utah,49023,251,168,359
+Warren County,Georgia,13301,252,151,411
+Lemhi County,Idaho,16059,252,155,364
+Cumberland County,Kentucky,21057,252,139,380
+Fremont County,Iowa,19071,253,151,376
+East Carroll Parish,Louisiana,22035,254,152,384
+Beaverhead County,Montana,30001,254,150,390
+Carbon County,Montana,30009,254,155,379
+Clear Creek County,Colorado,08019,255,153,392
+Gentry County,Missouri,29075,255,163,364
+Sherman County,Kansas,20181,257,169,357
+Huerfano County,Colorado,08055,258,150,387
+Brewster County,Texas,48043,258,152,414
+Hamilton County,Texas,48193,258,141,421
+Sublette County,Wyoming,56035,258,170,384
+Sitka City and Borough,Alaska,02220,259,168,382
+King And Queen County,Virginia,51097,259,159,400
+Calhoun County,West Virginia,54013,259,147,406
+Dallas County,Arkansas,05039,260,157,410
+Lac Qui Parle County,Minnesota,27073,261,164,392
+Stevens County,Minnesota,27149,261,159,393
+Morris County,Kansas,20127,262,170,368
+Cuming County,Nebraska,31039,262,185,358
+Grant County,Oregon,41023,262,157,398
+Wallowa County,Oregon,41063,262,152,401
+Rappahannock County,Virginia,51157,266,153,417
+Pleasants County,West Virginia,54073,266,169,397
+Benewah County,Idaho,16009,267,160,415
+Cloud County,Kansas,20029,267,184,381
+Murray County,Minnesota,27101,267,163,396
+Conejos County,Colorado,08021,268,173,389
+Adair County,Iowa,19001,268,165,402
+Lyon County,Kentucky,21143,268,164,416
+Hamilton County,Illinois,17065,269,154,430
+Kingman County,Kansas,20095,269,181,378
+Perry County,Tennessee,47135,269,151,415
+Trimble County,Kentucky,21223,270,156,415
+Atchison County,Missouri,29005,270,161,382
+Howard County,Missouri,29089,270,151,423
+Keith County,Nebraska,31101,270,187,371
+Russell County,Kansas,20167,271,173,382
+Crittenden County,Kentucky,21055,271,163,417
+Fall River County,South Dakota,46047,271,159,420
+Zavala County,Texas,48507,271,151,443
+Shannon County,Missouri,29203,272,159,420
+Pierce County,Nebraska,31139,272,194,358
+Coleman County,Texas,48083,272,149,455
+Montgomery County,Georgia,13209,273,160,423
+Wayne County,Iowa,19185,273,164,422
+Nantucket County,Massachusetts,25019,273,160,428
+Cheyenne County,Nebraska,31033,273,197,373
+Graham County,North Carolina,37075,275,154,448
+Love County,Oklahoma,40085,275,158,419
+Duval County,Texas,48131,275,147,447
+Gilmer County,West Virginia,54021,275,169,401
+Dawson County,Montana,30021,276,192,365
+Lake County,Oregon,41037,276,172,424
+Ward County,Texas,48475,276,162,449
+Dade County,Missouri,29057,277,160,443
+Charles Mix County,South Dakota,46023,277,162,419
+Archer County,Texas,48009,277,154,426
+Ferry County,Washington,53019,277,173,400
+Clark County,Missouri,29045,278,163,422
+Valley County,Montana,30105,278,193,377
+Gunnison County,Colorado,08051,279,166,427
+Monroe County,Iowa,19135,279,170,411
+Surry County,Virginia,51181,279,169,417
+Clay County,Tennessee,47027,280,161,434
+Essex County,Vermont,50009,280,217,359
+Doniphan County,Kansas,20043,281,182,400
+Taylor County,Georgia,13269,282,161,451
+Richardson County,Nebraska,31147,282,202,382
+Forest County,Wisconsin,55041,283,175,417
+Clay County,Kansas,20027,284,188,397
+Valdez-Cordova Census Area,Alaska,02261,285,188,410
+Nemaha County,Kansas,20131,285,191,399
+Teton County,Wyoming,56039,285,186,406
+Jasper County,Illinois,17079,286,162,470
+Randolph County,Georgia,13243,287,161,444
+Hamilton County,Nebraska,31081,287,207,390
+Knox County,Nebraska,31107,287,224,360
+Mountrail County,North Dakota,38061,288,199,392
+Dewey County,South Dakota,46041,288,236,344
+Doddridge County,West Virginia,54017,288,174,429
+Humboldt County,Iowa,19091,289,174,434
+Grand County,Utah,49019,289,195,408
+Talbot County,Georgia,13263,290,166,456
+Jenkins County,Georgia,13165,291,175,433
+Martin County,Indiana,18101,291,172,454
+Dawson County,Texas,48115,291,155,481
+Reeves County,Texas,48389,292,161,466
+Zapata County,Texas,48505,292,158,482
+Liberty County,Florida,12077,293,235,365
+Maries County,Missouri,29125,293,154,464
+Mckenzie County,North Dakota,38053,293,202,407
+Wilcox County,Georgia,13315,294,186,449
+Clarke County,Iowa,19039,294,167,436
+Warren County,Indiana,18171,295,179,452
+Elliott County,Kentucky,21063,295,183,446
+Phelps County,Nebraska,31137,295,192,412
+Tillman County,Oklahoma,40141,296,184,431
+Emery County,Utah,49015,296,217,408
+Pratt County,Kansas,20151,297,201,416
+Terry County,Texas,48445,298,171,489
+Pipestone County,Minnesota,27117,299,188,438
+Monroe County,Arkansas,05095,300,182,448
+Lincoln County,Georgia,13181,301,181,472
+Seminole County,Georgia,13253,301,181,479
+Franklin County,Mississippi,28037,302,174,443
+Washakie County,Wyoming,56043,302,213,403
+Grand County,Colorado,08049,303,179,460
+Boise County,Idaho,16015,303,189,448
+Winnebago County,Iowa,19189,303,168,501
+Hancock County,Kentucky,21091,303,190,448
+Cleveland County,Arkansas,05025,304,185,465
+Yuma County,Colorado,08125,304,196,437
+Oscoda County,Michigan,26135,304,176,491
+Charles City County,Virginia,51036,304,170,477
+Lafayette County,Arkansas,05073,305,180,475
+Searcy County,Arkansas,05129,306,188,456
+Davis County,Iowa,19051,306,186,453
+Yellow Medicine County,Minnesota,27173,306,196,449
+Woods County,Oklahoma,40151,306,195,452
+Blaine County,Montana,30005,307,235,374
+Quay County,New Mexico,35037,307,201,433
+Runnels County,Texas,48399,307,175,509
+Turner County,Georgia,13287,309,180,449
+Red River Parish,Louisiana,22081,309,187,479
+Cumberland County,Illinois,17035,310,169,535
+Emmet County,Iowa,19063,310,187,472
+Hancock County,Iowa,19081,310,184,467
+Wilkinson County,Georgia,13319,311,179,473
+Lafayette County,Florida,12067,313,244,396
+Franklin County,Idaho,16041,313,203,452
+Livingston County,Kentucky,21139,313,176,483
+Carroll County,Missouri,29033,313,192,476
+Monroe County,Missouri,29137,313,184,469
+Irwin County,Georgia,13155,314,179,484
+Pecos County,Texas,48371,314,185,493
+Newton County,Arkansas,05101,315,194,460
+Evans County,Georgia,13109,315,175,506
+Mitchell County,Iowa,19131,315,194,478
+Dekalb County,Missouri,29063,315,185,482
+Jefferson County,Montana,30043,317,202,467
+Wilkinson County,Mississippi,28157,318,195,479
+Valley County,Idaho,16085,319,191,495
+Keokuk County,Iowa,19107,319,201,483
+Carroll County,Kentucky,21041,319,181,484
+Grundy County,Missouri,29079,319,195,482
+Ralls County,Missouri,29173,319,198,494
+Pembina County,North Dakota,38067,319,228,419
+Terrell County,Georgia,13273,320,180,496
+Karnes County,Texas,48255,320,178,522
+Franklin County,Iowa,19069,321,185,510
+Clay County,South Dakota,46027,321,195,479
+Tucker County,West Virginia,54093,321,208,451
+Archuleta County,Colorado,08007,322,201,479
+Mclean County,North Dakota,38055,322,242,423
+Traill County,North Dakota,38097,323,220,434
+Lamb County,Texas,48279,323,177,550
+Live Oak County,Texas,48297,324,185,519
+Sac County,Iowa,19161,325,197,497
+Quitman County,Mississippi,28119,325,192,499
+Anderson County,Kansas,20003,326,227,462
+Schoolcraft County,Michigan,26153,326,199,518
+Prairie County,Arkansas,05117,327,196,504
+Modoc County,California,06049,327,188,524
+Menifee County,Kentucky,21165,327,212,460
+Nevada County,Arkansas,05099,328,203,494
+Guthrie County,Iowa,19077,328,191,503
+Claiborne County,Mississippi,28021,328,193,500
+Pope County,Minnesota,27121,329,201,505
+San Augustine County,Texas,48405,329,184,531
+Cass County,Illinois,17017,331,173,539
+Calhoun County,Iowa,19025,331,203,467
+Wayne County,Nebraska,31179,331,252,425
+Tyler County,West Virginia,54095,331,202,497
+Twiggs County,Georgia,13289,332,188,517
+Washington County,Idaho,16087,332,209,480
+Pendleton County,West Virginia,54071,332,214,477
+Benton County,Indiana,18007,333,199,500
+Swift County,Minnesota,27151,333,204,505
+Bacon County,Georgia,13005,335,180,561
+Johnson County,Georgia,13167,335,195,527
+Alger County,Michigan,26003,335,203,504
+Mono County,California,06051,336,192,576
+Mclean County,Kentucky,21149,336,209,502
+West Feliciana Parish,Louisiana,22125,336,195,517
+Franklin County,Texas,48159,336,184,538
+Poquoson City,Virginia,51735,336,183,536
+Wabash County,Illinois,17185,337,190,555
+Louisa County,Iowa,19115,338,216,501
+Kodiak Island Borough,Alaska,02150,339,210,516
+Lake County,Minnesota,27075,339,218,512
+Nowata County,Oklahoma,40105,339,197,531
+Worth County,Iowa,19195,340,219,496
+Catahoula Parish,Louisiana,22025,340,214,509
+Baraga County,Michigan,26013,340,206,505
+Benton County,Mississippi,28009,340,207,533
+Franklin City,Virginia,51620,340,218,509
+Mills County,Iowa,19129,342,200,532
+Red Willow County,Nebraska,31145,342,244,451
+Madison County,Texas,48313,342,188,556
+Pitkin County,Colorado,08097,343,200,527
+Clearwater County,Idaho,16035,343,237,473
+Ozark County,Missouri,29153,343,207,544
+Barnes County,North Dakota,38003,343,235,481
+Mathews County,Virginia,51115,343,211,527
+Chariton County,Missouri,29041,344,213,505
+Harrison County,Missouri,29081,344,227,489
+Washita County,Oklahoma,40149,344,212,515
+Morrow County,Oregon,41049,344,200,524
+Decatur County,Iowa,19053,345,219,504
+Butte County,South Dakota,46019,345,234,481
+Marshall County,Minnesota,27089,346,227,491
+Hickory County,Missouri,29085,346,188,542
+Bethel Census Area,Alaska,02050,347,236,475
+Moffat County,Colorado,08081,347,214,493
+Johnson County,Illinois,17087,347,183,542
+Caldwell Parish,Louisiana,22021,347,222,517
+Lanier County,Georgia,13173,348,207,540
+Grundy County,Iowa,19075,348,220,530
+Pocahontas County,West Virginia,54075,349,213,514
+Owyhee County,Idaho,16073,351,220,509
+Marion County,Georgia,13197,352,219,531
+Marion County,Kansas,20115,354,243,512
+Boundary County,Idaho,16021,356,231,533
+Oregon County,Missouri,29149,357,222,536
+Camden County,North Carolina,37029,357,212,574
+Rio Grande County,Colorado,08105,359,230,522
+Fremont County,Idaho,16043,359,230,513
+Rosebud County,Montana,30087,359,273,458
+Merrick County,Nebraska,31121,359,254,463
+Scott County,Arkansas,05127,360,215,556
+Sabine County,Texas,48403,360,209,615
+Charlton County,Georgia,13049,361,203,564
+Frio County,Texas,48163,362,200,611
+Heard County,Georgia,13149,363,198,580
+Chippewa County,Minnesota,27023,363,234,532
+Greene County,Mississippi,28041,363,225,547
+Andrews County,Texas,48003,363,189,586
+Jackson County,Minnesota,27063,366,236,536
+Lee County,Arkansas,05077,367,244,519
+Ramsey County,North Dakota,38071,368,270,478
+Menard County,Illinois,17129,369,197,601
+Switzerland County,Indiana,18155,369,217,568
+Humphreys County,Mississippi,28053,370,225,547
+Wright County,Iowa,19197,371,230,555
+Thurston County,Nebraska,31173,371,298,453
+Webster County,West Virginia,54101,371,233,548
+Owen County,Kentucky,21187,372,225,575
+Falls Church City,Virginia,51610,372,222,577
+Lucas County,Iowa,19117,373,233,554
+Brown County,Kansas,20013,373,268,498
+St. Clair County,Missouri,29185,373,214,586
+Jefferson County,Mississippi,28063,374,239,551
+Candler County,Georgia,13043,375,221,578
+Iron County,Missouri,29093,375,217,581
+Walsh County,North Dakota,38099,375,266,503
+Ritchie County,West Virginia,54085,375,241,557
+Ford County,Illinois,17053,377,210,612
+Greene County,Illinois,17061,377,211,588
+Custer County,South Dakota,46033,377,228,560
+Marshall County,Kansas,20117,378,268,502
+Rice County,Kansas,20159,378,262,521
+Tunica County,Mississippi,28143,378,231,559
+Gaines County,Texas,48165,378,213,636
+Clay County,West Virginia,54015,378,242,541
+Palo Alto County,Iowa,19147,379,225,577
+Todd County,Kentucky,21219,379,235,567
+Greene County,Iowa,19073,380,245,579
+Chickasaw County,Iowa,19037,381,224,586
+Ballard County,Kentucky,21007,381,242,545
+Roberts County,South Dakota,46109,381,246,548
+Perry County,Arkansas,05105,383,231,593
+Kiowa County,Oklahoma,40075,384,246,562
+Blanco County,Texas,48031,385,199,659
+Clay County,Illinois,17025,386,210,629
+Lake County,South Dakota,46079,386,234,584
+Converse County,Wyoming,56009,386,254,544
+Moultrie County,Illinois,17139,387,216,642
+Caldwell County,Missouri,29025,387,241,575
+Johnston County,Oklahoma,40069,387,244,595
+Camp County,Texas,48063,388,216,656
+Buffalo County,Wisconsin,55011,388,220,594
+Linn County,Kansas,20107,389,266,528
+St. Helena Parish,Louisiana,22091,389,230,602
+Bullock County,Alabama,01011,390,229,602
+Webster County,Mississippi,28155,391,256,564
+Montgomery County,Missouri,29139,391,223,636
+Millard County,Utah,49027,391,272,536
+Clay County,North Carolina,37043,392,217,619
+Cedar County,Missouri,29039,394,212,635
+San Juan County,Washington,53055,394,249,561
+Crawford County,Indiana,18025,395,240,601
+Coffey County,Kansas,20031,395,281,527
+Noble County,Ohio,39121,395,245,597
+Early County,Georgia,13099,397,236,631
+Cherokee County,Iowa,19035,397,232,593
+Montmorency County,Michigan,26119,398,234,629
+Sussex County,Virginia,51183,398,263,573
+Alcona County,Michigan,26001,399,223,621
+Hancock County,Georgia,13141,400,234,606
+Deer Lodge County,Montana,30023,400,257,573
+Cass County,Iowa,19029,401,249,595
+Holt County,Nebraska,31089,401,302,517
+Latimer County,Oklahoma,40077,402,252,610
+Noble County,Oklahoma,40103,402,246,603
+Manassas Park City,Virginia,51685,402,229,635
+Rusk County,Wisconsin,55107,402,229,641
+Monona County,Iowa,19133,403,247,594
+Barton County,Missouri,29011,403,224,645
+White County,Illinois,17193,404,222,672
+Alleghany County,North Carolina,37005,404,209,653
+Lewis County,Tennessee,47101,404,226,627
+Marion County,Texas,48315,404,226,645
+Crawford County,Georgia,13079,406,232,642
+Pulaski County,Indiana,18131,406,239,613
+Rains County,Texas,48379,406,220,652
+Watonwan County,Minnesota,27165,408,270,584
+Obrien County,Iowa,19141,409,250,636
+Clinton County,Kentucky,21053,409,253,620
+Scurry County,Texas,48415,409,214,656
+Marshall County,Illinois,17123,411,236,636
+Mason County,Illinois,17125,411,233,666
+Lyon County,Iowa,19119,411,260,586
+Metcalfe County,Kentucky,21169,411,253,608
+Price County,Wisconsin,55099,411,281,589
+Iron County,Michigan,26071,412,239,636
+Lincoln County,Washington,53043,412,302,537
+Chicot County,Arkansas,05017,413,254,580
+Los Alamos County,New Mexico,35028,413,252,607
+Goshen County,Wyoming,56015,413,302,544
+Greensville County,Virginia,51081,414,267,592
+Montgomery County,Iowa,19137,415,268,609
+Jackson County,Texas,48239,415,240,684
+Powell County,Kentucky,21197,416,234,668
+Lewis County,Missouri,29111,416,262,621
+Carbon County,Wyoming,56007,416,304,557
+Wilbarger County,Texas,48487,417,241,669
+Routt County,Colorado,08107,418,263,607
+Towns County,Georgia,13281,419,236,689
+Cottonwood County,Minnesota,27033,419,269,583
+Seward County,Kansas,20175,421,273,607
+Deaf Smith County,Texas,48117,421,229,695
+Morris County,Texas,48343,421,239,688
+Blaine County,Oklahoma,40011,422,281,577
+Skamania County,Washington,53059,423,291,580
+Pike County,Arkansas,05109,425,260,612
+Alamosa County,Colorado,08003,425,265,616
+Trinity County,California,06105,426,225,703
+Clay County,Texas,48077,426,241,673
+Montgomery County,Arkansas,05097,427,269,663
+Mackinac County,Michigan,26097,427,262,651
+Choctaw County,Mississippi,28019,427,291,597
+Todd County,South Dakota,46121,427,354,503
+Nolan County,Texas,48353,427,243,674
+Lincoln County,Arkansas,05079,429,259,641
+Union County,South Dakota,46127,429,283,594
+Wayne County,Missouri,29223,431,252,668
+Williamsburg City,Virginia,51830,431,259,668
+Webster County,Kentucky,21233,432,271,640
+Cannon County,Tennessee,47015,432,242,681
+Stewart County,Tennessee,47161,433,241,711
+Cumberland County,Virginia,51049,433,272,641
+Larue County,Kentucky,21123,434,267,628
+Custer County,Montana,30017,435,309,589
+Lunenburg County,Virginia,51111,437,267,652
+Monroe County,Kentucky,21171,438,268,656
+Morgan County,Kentucky,21175,439,291,619
+Pendleton County,Kentucky,21191,439,250,697
+Fergus County,Montana,30027,439,301,588
+Radford City,Virginia,51750,439,250,675
+Park County,Colorado,08093,441,265,655
+Jeff Davis County,Georgia,13161,441,241,684
+Shoshone County,Idaho,16079,441,295,637
+Humboldt County,Nevada,32013,441,274,627
+Pennington County,Minnesota,27113,442,285,630
+Pushmataha County,Oklahoma,40127,442,280,665
+Washington County,Illinois,17189,443,233,720
+Torrance County,New Mexico,35057,443,274,668
+Lake County,Michigan,26085,444,245,701
+Gooding County,Idaho,16047,445,304,633
+Custer County,Nebraska,31041,446,349,569
+West Carroll Parish,Louisiana,22123,449,276,644
+Bleckley County,Georgia,13023,450,248,713
+Faribault County,Minnesota,27043,450,285,640
+Moniteau County,Missouri,29135,450,269,661
+Okfuskee County,Oklahoma,40107,451,276,676
+Blaine County,Idaho,16013,452,282,660
+Martin County,Kentucky,21159,455,286,659
+Bayfield County,Wisconsin,55007,456,303,629
+Koochiching County,Minnesota,27071,457,294,679
+Bath County,Kentucky,21011,458,280,647
+Jones County,North Carolina,37103,458,263,697
+Moore County,Texas,48341,459,256,720
+Pike County,Illinois,17149,460,259,740
+Cedar County,Iowa,19031,460,282,680
+Martinsville City,Virginia,51690,460,257,724
+Fulton County,Arkansas,05049,461,296,663
+Pike County,Indiana,18125,462,281,723
+Comanche County,Texas,48093,462,267,719
+Long County,Georgia,13183,463,274,739
+Carroll County,Illinois,17015,464,272,733
+Macon County,Missouri,29121,464,304,681
+Little River County,Arkansas,05081,465,273,680
+Atoka County,Oklahoma,40005,465,289,715
+Meigs County,Tennessee,47121,466,277,708
+Platte County,Wyoming,56031,466,332,599
+Sanders County,Montana,30089,470,330,649
+Madison County,Missouri,29123,471,279,747
+Box Butte County,Nebraska,31013,471,346,602
+Wilson County,Kansas,20205,472,346,626
+Richmond County,Virginia,51159,472,316,672
+Callahan County,Texas,48059,473,283,757
+Ashland County,Wisconsin,55003,474,318,661
+Big Horn County,Wyoming,56003,475,348,617
+Prowers County,Colorado,08099,476,327,656
+Union County,Illinois,17181,476,263,785
+Newton County,Texas,48351,476,266,749
+Desha County,Arkansas,05041,479,295,681
+Chaffee County,Colorado,08015,480,321,671
+Jones County,Texas,48253,480,267,762
+Bond County,Illinois,17005,481,272,790
+Roseau County,Minnesota,27135,481,321,675
+Noxubee County,Mississippi,28103,481,311,678
+Ketchikan Gateway Borough,Alaska,02130,482,347,659
+Shelby County,Iowa,19165,482,316,706
+Green County,Kentucky,21087,482,313,676
+Gates County,North Carolina,37073,482,286,737
+Nelson County,Virginia,51125,482,281,753
+Clay County,Alabama,01027,483,297,708
+Jackson County,Tennessee,47087,483,290,710
+Greene County,Alabama,01063,484,293,737
+Massac County,Illinois,17127,484,277,756
+Coosa County,Alabama,01037,485,302,726
+Osage County,Missouri,29151,485,261,749
+Lafayette County,Wisconsin,55065,485,270,753
+Clarke County,Virginia,51043,486,288,756
+Bradley County,Arkansas,05011,487,299,708
+Jasper County,Georgia,13159,487,288,777
+Clark County,Illinois,17023,487,266,769
+Madison Parish,Louisiana,22065,487,312,694
+Bledsoe County,Tennessee,47007,487,296,734
+Wilkes County,Georgia,13317,488,294,721
+Haskell County,Oklahoma,40061,488,294,736
+Oglethorpe County,Georgia,13221,490,277,760
+Lincoln County,Wyoming,56023,490,345,672
+Decatur County,Tennessee,47039,491,307,702
+Jackson County,Wisconsin,55053,491,287,791
+Washington County,Kentucky,21229,493,313,736
+Pike County,Georgia,13231,494,286,763
+Wayne County,Illinois,17191,494,284,786
+Willacy County,Texas,48489,494,261,798
+Butler County,Iowa,19023,496,315,729
+Wasatch County,Utah,49051,499,366,661
+Sibley County,Minnesota,27143,500,322,717
+Essex County,Virginia,51057,500,316,738
+Allamakee County,Iowa,19005,501,308,729
+Charlotte County,Virginia,51037,501,315,750
+Hamilton County,Iowa,19079,502,321,733
+Leslie County,Kentucky,21131,502,337,705
+Presque Isle County,Michigan,26141,502,306,767
+Richland County,North Dakota,38077,502,370,649
+Crockett County,Tennessee,47033,502,312,792
+Cleburne County,Alabama,01029,504,301,760
+Telfair County,Georgia,13271,504,304,776
+Butler County,Kentucky,21031,504,309,735
+Estill County,Kentucky,21065,504,301,753
+Pulaski County,Georgia,13235,505,290,777
+Mercer County,Illinois,17131,505,296,786
+Harrison County,Kentucky,21097,505,289,824
+Duchesne County,Utah,49013,505,378,638
+Richland County,Illinois,17159,506,280,805
+Gasconade County,Missouri,29073,506,291,764
+Kanabec County,Minnesota,27065,507,334,721
+Kemper County,Mississippi,28069,507,326,715
+Adams County,Washington,53001,507,367,677
+Piatt County,Illinois,17147,508,283,821
+Dukes County,Massachusetts,25007,509,290,811
+Madison County,Arkansas,05087,510,325,748
+Beadle County,South Dakota,46005,510,324,750
+Eastland County,Texas,48133,510,293,802
+Union County,Florida,12125,511,398,619
+Brown County,Indiana,18013,511,326,753
+Saline County,Nebraska,31151,511,380,671
+Lawrence County,Illinois,17101,513,303,809
+Fulton County,Pennsylvania,42057,513,284,777
+Poweshiek County,Iowa,19157,514,324,766
+Roosevelt County,Montana,30085,514,415,629
+Seward County,Nebraska,31159,515,392,643
+Allendale County,South Carolina,45005,515,355,697
+Henry County,Kentucky,21103,516,312,788
+Hughes County,South Dakota,46065,516,341,730
+Morgan County,Missouri,29141,517,308,807
+Edmonson County,Kentucky,21061,518,328,820
+Bollinger County,Missouri,29017,519,312,802
+Perry County,Alabama,01105,520,359,712
+Swain County,North Carolina,37173,520,304,788
+Texas County,Oklahoma,40139,520,340,736
+Trinity County,Texas,48455,520,295,845
+Park County,Montana,30067,522,355,713
+Jackson County,Iowa,19097,523,320,773
+Jefferson County,Iowa,19101,523,324,765
+Dallas County,Missouri,29059,523,308,850
+Cooper County,Missouri,29053,524,306,830
+San Juan County,Utah,49037,525,392,669
+De Witt County,Illinois,17039,526,294,812
+Delaware County,Iowa,19055,527,325,779
+Iowa County,Iowa,19095,528,337,745
+Fleming County,Kentucky,21069,528,359,769
+Tama County,Iowa,19171,529,326,786
+Clay County,Iowa,19041,531,336,800
+Kossuth County,Iowa,19109,531,336,787
+Union County,Kentucky,21225,531,344,761
+Franklin County,Florida,12037,532,433,641
+Wadena County,Minnesota,27159,532,353,746
+Vinton County,Ohio,39163,532,343,781
+Middlesex County,Virginia,51119,533,334,790
+Clayton County,Iowa,19043,534,371,776
+Madison County,Virginia,51113,534,317,792
+York County,Nebraska,31185,535,398,682
+Richland County,Wisconsin,55103,535,296,873
+Burleson County,Texas,48051,536,318,870
+Union County,Iowa,19175,537,334,786
+Hill County,Montana,30041,537,432,650
+Lewis County,Kentucky,21135,539,371,772
+Perry County,Mississippi,28111,539,346,793
+Pend Oreille County,Washington,53051,539,370,724
+Renville County,Minnesota,27129,540,348,772
+Avery County,North Carolina,37011,540,293,822
+Potter County,Pennsylvania,42105,540,314,828
+Dickenson County,Virginia,51051,540,330,806
+Warren County,Illinois,17187,541,298,880
+Summit County,Colorado,08117,542,316,815
+Floyd County,Virginia,51063,543,342,789
+Greene County,Virginia,51079,543,311,854
+Linn County,Missouri,29115,545,351,773
+Davison County,South Dakota,46035,545,346,819
+Dade County,Georgia,13083,546,324,832
+Montgomery County,Mississippi,28097,547,370,772
+Lawrence County,Arkansas,05075,548,321,852
+Atchison County,Kansas,20005,548,397,716
+Appling County,Georgia,13001,549,312,871
+Brantley County,Georgia,13025,550,294,867
+Washburn County,Wisconsin,55129,550,324,838
+Fillmore County,Minnesota,27045,552,357,807
+Lowndes County,Alabama,01085,554,378,800
+Crawford County,Michigan,26039,554,332,842
+Perry County,Missouri,29157,554,325,893
+Lancaster County,Virginia,51103,554,343,843
+Braxton County,West Virginia,54007,555,355,796
+Gogebic County,Michigan,26053,556,304,893
+Summers County,West Virginia,54089,556,369,808
+Yalobusha County,Mississippi,28161,557,359,827
+Dent County,Missouri,29065,557,335,900
+Northumberland County,Virginia,51133,557,344,843
+Gonzales County,Texas,48177,558,322,894
+Ben Hill County,Georgia,13017,559,331,858
+Parke County,Indiana,18121,559,348,838
+Craig County,Oklahoma,40035,560,325,838
+Lee County,Texas,48287,560,333,912
+Macon County,Georgia,13193,561,331,847
+Crawford County,Wisconsin,55023,561,317,899
+Colusa County,California,06011,562,315,914
+Perry County,Indiana,18123,563,359,809
+Big Horn County,Montana,30003,564,450,699
+Pamlico County,North Carolina,37137,564,338,891
+Robertson County,Texas,48395,564,303,918
+Howard County,Arkansas,05061,565,367,816
+Appanoose County,Iowa,19007,565,375,817
+Winneshiek County,Iowa,19191,565,354,835
+Young County,Texas,48503,565,327,917
+Screven County,Georgia,13251,566,355,837
+Murray County,Oklahoma,40099,566,383,804
+Johnson County,Tennessee,47091,567,342,874
+Houston County,Minnesota,27055,568,364,820
+Vernon County,Missouri,29217,568,332,924
+Wayne County,Tennessee,47181,568,340,839
+Jefferson County,Georgia,13163,569,329,866
+Rabun County,Georgia,13241,569,320,910
+Carroll County,Mississippi,28015,569,371,827
+Hart County,Kentucky,21099,571,351,843
+Freestone County,Texas,48161,571,334,880
+Grundy County,Tennessee,47061,572,348,860
+Bosque County,Texas,48035,573,301,1006
+Hockley County,Texas,48219,573,318,930
+Appomattox County,Virginia,51011,573,326,853
+Izard County,Arkansas,05065,576,357,830
+Fulton County,Indiana,18049,576,368,842
+Rush County,Indiana,18139,576,354,855
+Dickinson County,Iowa,19059,576,356,847
+Buchanan County,Iowa,19019,578,375,798
+Floyd County,Iowa,19067,580,378,842
+Colonial Heights City,Virginia,51570,580,352,918
+Marquette County,Wisconsin,55077,580,354,905
+Hutchinson County,Texas,48233,581,310,911
+Grayson County,Virginia,51077,581,357,839
+Jerome County,Idaho,16053,582,398,836
+Newton County,Indiana,18111,584,387,848
+Falls County,Texas,48145,584,329,937
+Brooks County,Georgia,13027,585,339,883
+Blackford County,Indiana,18009,586,367,855
+Crawford County,Iowa,19047,586,407,802
+Madison County,Iowa,19121,586,382,864
+Baker County,Oregon,41001,587,355,882
+Gray County,Texas,48179,587,320,947
+Mitchell County,North Carolina,37121,588,335,937
+Sevier County,Utah,49041,588,425,766
+Douglas County,Missouri,29067,589,366,899
+Roosevelt County,New Mexico,35041,589,373,836
+Leon County,Texas,48289,589,327,901
+Montague County,Texas,48337,589,338,968
+Las Animas County,Colorado,08071,592,419,795
+Mccormick County,South Carolina,45065,592,440,779
+Jackson County,Kansas,20085,593,435,772
+Inyo County,California,06027,594,324,927
+Magoffin County,Kentucky,21153,594,408,811
+Edgar County,Illinois,17045,595,333,987
+Humphreys County,Tennessee,47085,595,348,940
+Crenshaw County,Alabama,01041,596,379,850
+Mississippi County,Missouri,29133,597,419,840
+Jackson Parish,Louisiana,22049,598,384,859
+Hancock County,Illinois,17067,599,347,927
+Tyler County,Texas,48457,599,345,969
+Burnett County,Wisconsin,55013,599,339,934
+Sequatchie County,Tennessee,47153,600,351,871
+Bristol City,Virginia,51520,600,341,928
+Trigg County,Kentucky,21221,601,398,869
+Washington County,North Carolina,37187,601,366,901
+Jones County,Iowa,19105,602,362,882
+Bourbon County,Kansas,20011,602,439,803
+Sierra County,New Mexico,35051,603,407,830
+Hardin County,Iowa,19083,604,410,849
+Caldwell County,Kentucky,21033,605,397,863
+Paulding County,Ohio,39125,606,359,900
+Dewitt County,Texas,48123,606,347,992
+Bourbon County,Kentucky,21017,607,354,951
+Aitkin County,Minnesota,27001,607,421,815
+Nodaway County,Missouri,29147,607,409,881
+Crawford County,Illinois,17033,608,366,946
+Clay County,Arkansas,05021,609,385,868
+Lasalle Parish,Louisiana,22059,609,371,848
+Franklin County,Arkansas,05047,610,346,917
+Elbert County,Colorado,08039,610,406,863
+Fountain County,Indiana,18045,610,398,915
+Uinta County,Wyoming,56041,610,439,811
+Monroe County,Ohio,39111,611,412,843
+Kewaunee County,Wisconsin,55061,611,337,931
+Colfax County,New Mexico,35007,612,399,862
+Mariposa County,California,06043,613,343,1029
+Yancey County,North Carolina,37199,613,345,969
+Douglas County,Illinois,17041,614,360,945
+Spencer County,Indiana,18147,618,361,894
+Sawyer County,Wisconsin,55113,619,447,828
+Missaukee County,Michigan,26113,621,391,884
+Ste. Genevieve County,Missouri,29186,621,389,925
+Lampasas County,Texas,48281,623,361,1039
+Carbon County,Utah,49007,625,454,793
+Amelia County,Virginia,51007,625,429,875
+Montour County,Pennsylvania,42093,626,393,940
+Chester County,Tennessee,47023,626,409,911
+Harrison County,Iowa,19085,627,402,872
+Perry County,Illinois,17145,628,353,989
+Perquimans County,North Carolina,37143,628,398,927
+Jersey County,Illinois,17083,629,337,1021
+Buena Vista County,Iowa,19021,629,440,836
+Casey County,Kentucky,21045,631,433,895
+Calhoun County,Texas,48057,631,345,951
+Jackson County,Arkansas,05067,632,372,962
+Taylor County,Wisconsin,55119,632,413,901
+Stone County,Arkansas,05137,633,413,888
+Idaho County,Idaho,16049,633,471,838
+Hughes County,Oklahoma,40063,634,414,898
+Kingfisher County,Oklahoma,40073,635,410,912
+Hardy County,West Virginia,54031,635,431,901
+Gem County,Idaho,16045,637,439,875
+Wabasha County,Minnesota,27157,638,421,926
+Jefferson Davis County,Mississippi,28065,638,421,882
+Harrison County,Ohio,39067,638,409,889
+Summit County,Utah,49043,638,449,887
+Yankton County,South Dakota,46135,639,421,921
+Benton County,Tennessee,47005,639,379,957
+Lawrence County,Mississippi,28077,640,437,855
+Morgan County,Georgia,13211,641,382,982
+Fayette County,Illinois,17051,641,384,1000
+Greene County,Georgia,13133,642,372,1024
+Lamar County,Georgia,13171,643,382,991
+Jackson County,Kentucky,21109,643,413,929
+Waseca County,Minnesota,27161,643,408,946
+Livingston County,Missouri,29117,643,408,941
+Bee County,Texas,48025,644,347,1030
+Simpson County,Kentucky,21213,645,393,950
+Winn Parish,Louisiana,22127,645,420,927
+Bates County,Missouri,29013,645,417,925
+Ripley County,Missouri,29181,647,401,933
+Arenac County,Michigan,26011,648,384,976
+Page County,Iowa,19145,649,425,940
+Hood River County,Oregon,41027,649,392,1038
+Andrew County,Missouri,29003,650,405,972
+Green Lake County,Wisconsin,55047,650,380,984
+Allen County,Kansas,20001,652,488,851
+Giles County,Virginia,51071,652,403,973
+Dakota County,Nebraska,31043,654,550,771
+Saunders County,Nebraska,31155,654,471,851
+Carroll County,Iowa,19027,656,450,944
+Grant County,West Virginia,54023,656,419,921
+Lincoln County,Montana,30053,657,463,872
+Dooly County,Georgia,13093,660,448,966
+Breckinridge County,Kentucky,21027,661,425,974
+Roane County,West Virginia,54087,661,445,900
+Brunswick County,Virginia,51025,662,414,972
+Mcdonald County,Missouri,29119,663,398,1028
+Tipton County,Indiana,18159,664,435,943
+Vermillion County,Indiana,18165,666,415,975
+Rolette County,North Dakota,38079,667,502,848
+Scott County,Tennessee,47151,667,402,1036
+Madison County,North Carolina,37115,669,395,1073
+Lamoille County,Vermont,50015,669,512,851
+Fentress County,Tennessee,47049,670,400,1016
+Otero County,Colorado,08089,671,474,939
+Rockcastle County,Kentucky,21203,672,416,980
+Uvalde County,Texas,48463,672,372,1081
+Henry County,Iowa,19087,673,439,990
+Mccreary County,Kentucky,21147,673,449,957
+Choctaw County,Oklahoma,40023,673,431,941
+Lavaca County,Texas,48285,673,367,1051
+Banks County,Georgia,13011,674,385,1017
+Van Buren County,Arkansas,05141,676,424,999
+Henry County,Missouri,29083,676,394,1034
+Woodward County,Oklahoma,40153,676,474,922
+Kleberg County,Texas,48273,676,364,1066
+Glenn County,California,06021,678,395,1026
+Plumas County,California,06063,679,382,1094
+Orange County,Indiana,18117,681,434,969
+Gulf County,Florida,12045,682,551,815
+Colorado County,Texas,48089,682,361,1069
+Amite County,Mississippi,28005,683,486,935
+New Kent County,Virginia,51127,683,397,1040
+King William County,Virginia,51101,684,426,995
+Teller County,Colorado,08119,686,465,946
+Mason County,Kentucky,21161,686,472,940
+Bienville Parish,Louisiana,22013,686,428,986
+Smith County,Mississippi,28129,686,437,972
+Wright County,Missouri,29229,687,409,1020
+Otoe County,Nebraska,31131,687,549,846
+Elbert County,Georgia,13105,688,394,1111
+Smith County,Tennessee,47159,688,394,1035
+Mcintosh County,Georgia,13191,689,429,1054
+Allen County,Kentucky,21003,689,449,1015
+Tallahatchie County,Mississippi,28135,689,460,933
+Osage County,Kansas,20139,690,522,863
+Taylor County,West Virginia,54091,690,481,963
+Marshall County,Oklahoma,40095,697,465,1030
+Union County,Tennessee,47173,698,420,1081
+Barbour County,West Virginia,54001,699,462,949
+Hamilton County,Florida,12047,700,584,821
+Piscataquis County,Maine,23021,700,583,832
+Pawnee County,Oklahoma,40117,700,454,1026
+Shelby County,Illinois,17173,701,390,1121
+Hubbard County,Minnesota,27057,702,498,940
+Dodge County,Minnesota,27039,703,468,961
+Sanpete County,Utah,49039,703,530,921
+Stone County,Mississippi,28131,704,416,1058
+Chowan County,North Carolina,37041,704,455,1034
+Wilcox County,Alabama,01131,705,491,979
+Garrard County,Kentucky,21079,705,433,1062
+Morgan County,Tennessee,47129,706,408,1071
+Jefferson County,Florida,12065,707,561,862
+Cook County,Georgia,13075,707,426,1032
+Clay County,Kentucky,21051,707,443,1016
+Mahaska County,Iowa,19123,709,460,1017
+Limestone County,Texas,48293,709,382,1150
+Wasco County,Oregon,41065,710,440,1050
+Lamar County,Alabama,01075,712,482,982
+Panola County,Texas,48365,713,405,1112
+Milam County,Texas,48331,715,388,1129
+Dickinson County,Kansas,20041,716,539,919
+Russell County,Kentucky,21207,717,468,997
+Franklin County,Georgia,13119,718,420,1143
+Bremer County,Iowa,19017,719,455,1047
+Glacier County,Montana,30035,719,597,853
+Fayette County,Iowa,19065,721,465,1029
+Stark County,North Dakota,38089,721,541,937
+Grimes County,Texas,48185,721,410,1150
+East Feliciana Parish,Louisiana,22037,722,449,1069
+Martin County,Minnesota,27091,722,485,1018
+Shelby County,Texas,48419,723,430,1102
+Mercer County,Kentucky,21167,724,433,1136
+Monroe County,West Virginia,54063,724,472,1031
+Lyon County,Minnesota,27083,726,479,1027
+Lincoln County,New Mexico,35027,726,521,987
+Houston County,Texas,48225,726,437,1119
+Kalkaska County,Michigan,26079,728,442,1095
+Logan County,Colorado,08075,729,511,994
+Marion County,Kentucky,21155,729,476,1038
+Adair County,Missouri,29001,730,472,1072
+Berrien County,Georgia,13019,731,454,1120
+Grant Parish,Louisiana,22043,731,454,1088
+Cross County,Arkansas,05037,732,465,1080
+Jefferson County,Kansas,20087,732,550,951
+Meade County,South Dakota,46093,732,598,873
+Sullivan County,Indiana,18153,733,455,1070
+Neosho County,Kansas,20133,733,525,960
+Pike County,Missouri,29163,735,464,1051
+Juniata County,Pennsylvania,42067,735,440,1181
+Socorro County,New Mexico,35053,737,488,1044
+Northampton County,Virginia,51131,737,522,995
+Conecuh County,Alabama,01035,740,503,1021
+Cassia County,Idaho,16031,741,528,1012
+Benzie County,Michigan,26019,741,476,1074
+Juneau City and Borough,Alaska,02110,742,557,1000
+Owen County,Indiana,18119,742,478,1082
+Polk County,Tennessee,47139,742,461,1099
+Butts County,Georgia,13035,743,442,1130
+Meeker County,Minnesota,27093,743,495,1022
+Chickasaw County,Mississippi,28017,745,473,1047
+Osceola County,Michigan,26133,746,474,1116
+Redwood County,Minnesota,27127,746,519,1000
+Buckingham County,Virginia,51029,746,484,1038
+Ellis County,Kansas,20051,752,546,1006
+Breathitt County,Kentucky,21025,753,545,998
+Spencer County,Kentucky,21215,754,460,1148
+Pierce County,Georgia,13229,756,427,1172
+Washington County,Missouri,29221,757,456,1139
+Washington County,Nebraska,31177,757,576,977
+Polk County,Arkansas,05113,758,503,1047
+Antrim County,Michigan,26009,758,447,1155
+Clarke County,Mississippi,28023,758,489,1075
+Brookings County,South Dakota,46011,760,613,926
+Westmoreland County,Virginia,51193,761,464,1097
+Burke County,Georgia,13033,762,470,1176
+Mitchell County,Georgia,13205,762,479,1143
+Jefferson County,Idaho,16051,763,540,1052
+Franklin County,Kansas,20059,763,577,992
+Fairfax City,Virginia,51600,763,520,1066
+Nobles County,Minnesota,27105,765,499,1057
+Warren County,North Carolina,37185,765,427,1230
+Morgan County,Ohio,39115,765,531,1026
+Starke County,Indiana,18149,766,463,1138
+Lewis County,West Virginia,54041,766,538,1069
+Grant County,Kentucky,21081,768,451,1188
+Greene County,North Carolina,37079,768,486,1174
+Carroll County,Indiana,18015,769,484,1106
+Glades County,Florida,12043,772,593,950
+Miller County,Missouri,29131,772,469,1175
+Patrick County,Virginia,51141,772,491,1108
+Washington County,Iowa,19183,773,501,1128
+Union County,Oregon,41061,773,492,1129
+Buchanan County,Virginia,51027,774,453,1167
+Sharp County,Arkansas,05135,775,497,1121
+Payette County,Idaho,16075,775,518,1056
+Saline County,Illinois,17165,775,428,1219
+Hale County,Texas,48189,778,455,1239
+Calhoun County,Florida,12013,780,655,910
+Albany County,Wyoming,56001,780,586,1016
+St. James Parish,Louisiana,22093,781,497,1180
+Winchester City,Virginia,51840,782,451,1229
+Marion County,Arkansas,05089,784,537,1108
+Sevier County,Arkansas,05133,785,565,1053
+Jo Daviess County,Illinois,17085,785,474,1231
+Stutsman County,North Dakota,38093,785,603,987
+Malheur County,Oregon,41045,785,479,1198
+Iowa County,Wisconsin,55049,785,442,1206
+Eagle County,Colorado,08037,786,486,1139
+Pottawatomie County,Kansas,20149,786,601,989
+Washington County,Alabama,01129,787,532,1083
+Brown County,Minnesota,27015,788,529,1100
+Schuyler County,New York,36097,789,611,1004
+Sioux County,Iowa,19167,790,536,1132
+Adair County,Kentucky,21001,790,526,1100
+Knott County,Kentucky,21119,795,566,1073
+Lassen County,California,06035,796,474,1257
+Alleghany County,Virginia,51005,797,555,1109
+Del Norte County,California,06015,801,446,1247
+Henry County,Ohio,39069,801,526,1170
+Choctaw County,Alabama,01023,802,572,1063
+Juneau County,Wisconsin,55057,803,502,1195
+Haralson County,Georgia,13143,805,439,1330
+Claiborne Parish,Louisiana,22027,806,579,1075
+Chattooga County,Georgia,13055,807,472,1262
+Minidoka County,Idaho,16067,812,556,1065
+Churchill County,Nevada,32001,812,592,1097
+Yell County,Arkansas,05149,813,527,1148
+Gilchrist County,Florida,12041,813,635,1014
+Williams County,North Dakota,38105,813,627,1026
+Overton County,Tennessee,47133,814,484,1201
+Goochland County,Virginia,51075,814,506,1235
+Caswell County,North Carolina,37033,816,462,1263
+Plymouth County,Iowa,19149,817,527,1218
+Leelanau County,Michigan,26089,817,507,1219
+Dodge County,Georgia,13091,818,530,1210
+Jackson County,Oklahoma,40065,818,530,1161
+Staunton City,Virginia,51790,818,482,1339
+Oglala Lakota County,South Dakota,46102,819,713,934
+Titus County,Texas,48449,819,470,1307
+Montgomery County,Illinois,17135,820,451,1234
+Upson County,Georgia,13293,821,481,1321
+Lawrence County,South Dakota,46081,821,670,975
+Southampton County,Virginia,51175,823,518,1213
+Waushara County,Wisconsin,55137,823,503,1267
+Menominee County,Michigan,26109,825,492,1266
+Vilas County,Wisconsin,55125,825,577,1113
+Calhoun County,South Carolina,45017,826,584,1139
+Palo Pinto County,Texas,48363,826,461,1292
+Hale County,Alabama,01065,828,600,1082
+Dawson County,Georgia,13085,828,504,1246
+Boone County,Iowa,19015,828,560,1210
+Langlade County,Wisconsin,55067,828,560,1136
+Pointe Coupee Parish,Louisiana,22077,829,513,1273
+Beckham County,Oklahoma,40009,833,551,1156
+Latah County,Idaho,16057,834,612,1095
+Gage County,Nebraska,31067,836,658,1032
+Luna County,New Mexico,35029,836,586,1165
+Logan County,Arkansas,05083,837,558,1199
+Fredericksburg City,Virginia,51630,838,510,1254
+Madison County,Idaho,16065,839,593,1133
+Daviess County,Indiana,18027,839,538,1214
+Jefferson County,Oregon,41031,839,526,1256
+Mcduffie County,Georgia,13189,840,484,1306
+Salem City,Virginia,51775,840,495,1335
+San Jacinto County,Texas,48407,844,467,1410
+New Madrid County,Missouri,29143,845,601,1127
+Howard County,Texas,48227,849,510,1362
+Emanuel County,Georgia,13107,850,500,1245
+Unicoi County,Tennessee,47171,850,537,1233
+West Baton Rouge Parish,Louisiana,22121,851,457,1364
+Bandera County,Texas,48019,851,471,1311
+Gillespie County,Texas,48171,856,485,1392
+Orleans County,Vermont,50019,857,677,1053
+Grant County,Arkansas,05053,858,573,1193
+Red River County,Texas,48387,858,655,1067
+Manistee County,Michigan,26101,860,559,1238
+Tillamook County,Oregon,41057,860,536,1282
+Randolph County,Arkansas,05121,861,558,1201
+Worth County,Georgia,13321,861,528,1271
+Fayette County,Texas,48149,861,501,1386
+Logan County,Illinois,17107,862,472,1400
+Otsego County,Michigan,26137,863,519,1305
+Codington County,South Dakota,46029,863,695,1031
+Clinton County,Missouri,29049,864,601,1194
+Aransas County,Texas,48007,865,468,1357
+Dixie County,Florida,12029,866,708,1028
+Iroquois County,Illinois,17075,866,515,1374
+Covington County,Mississippi,28031,866,578,1228
+Grainger County,Tennessee,47057,866,526,1289
+Waynesboro City,Virginia,51820,867,500,1384
+Randolph County,Illinois,17157,868,498,1329
+Elmore County,Idaho,16039,869,551,1240
+Lincoln County,Wisconsin,55069,869,585,1233
+Conway County,Arkansas,05029,871,569,1240
+Dekalb County,Tennessee,47041,871,518,1273
+Washington County,Georgia,13303,872,541,1274
+Posey County,Indiana,18129,872,554,1246
+Le Sueur County,Minnesota,27079,872,585,1235
+Saline County,Missouri,29195,872,592,1215
+Nottoway County,Virginia,51135,873,569,1207
+Lincoln County,Kentucky,21137,874,502,1307
+Walthall County,Mississippi,28147,874,625,1162
+Llano County,Texas,48299,875,501,1412
+Morgan County,West Virginia,54065,875,570,1209
+Anderson County,Kentucky,21005,876,551,1327
+Carroll County,Arkansas,05015,877,575,1270
+Asotin County,Washington,53003,879,676,1108
+Klickitat County,Washington,53039,879,657,1158
+Sumter County,Alabama,01119,882,643,1147
+Winston County,Mississippi,28159,883,596,1201
+Austin County,Texas,48015,883,501,1431
+Arkansas County,Arkansas,05001,884,605,1222
+Charlevoix County,Michigan,26029,884,559,1276
+King George County,Virginia,51099,886,532,1309
+Haywood County,Tennessee,47075,887,565,1258
+Hart County,Georgia,13147,888,502,1387
+Wayne County,Kentucky,21231,888,594,1217
+Concordia Parish,Louisiana,22029,889,621,1205
+Prince Edward County,Virginia,51147,889,595,1221
+Custer County,Oklahoma,40039,890,579,1251
+Manassas City,Virginia,51683,890,500,1461
+Fayette County,Indiana,18041,891,583,1257
+Currituck County,North Carolina,37053,891,562,1318
+Fannin County,Texas,48147,891,496,1448
+Dawson County,Nebraska,31047,896,676,1141
+Sumner County,Kansas,20191,897,662,1165
+Morton County,North Dakota,38059,897,703,1128
+Lawrence County,Kentucky,21127,899,667,1171
+Dickinson County,Michigan,26043,900,558,1343
+Johnson County,Arkansas,05071,901,581,1289
+Franklin County,Indiana,18047,904,589,1295
+Todd County,Minnesota,27153,904,626,1277
+Greene County,Pennsylvania,42059,904,530,1438
+Hickman County,Tennessee,47081,905,561,1351
+Drew County,Arkansas,05043,906,599,1239
+Trempealeau County,Wisconsin,55121,906,521,1385
+Adams County,Indiana,18001,908,605,1258
+Park County,Wyoming,56029,909,696,1140
+Polk County,Minnesota,27119,912,655,1253
+Attala County,Mississippi,28007,914,601,1250
+Benton County,Iowa,19011,915,618,1308
+Clark County,Arkansas,05019,916,596,1288
+Mcdonough County,Illinois,17109,916,532,1449
+Caledonia County,Vermont,50005,916,737,1126
+Ashley County,Arkansas,05003,919,612,1273
+Hempstead County,Arkansas,05057,919,627,1261
+Anson County,North Carolina,37007,919,522,1430
+Clark County,Wisconsin,55019,919,550,1371
+Benton County,Missouri,29015,923,576,1359
+Pemiscot County,Missouri,29155,923,647,1203
+Adams County,Wisconsin,55001,923,575,1378
+Union County,Mississippi,28145,926,575,1344
+Ford County,Kansas,20057,927,681,1240
+Rowan County,Kentucky,21205,928,686,1221
+Taylor County,Florida,12123,930,777,1100
+Taylor County,Kentucky,21217,930,616,1309
+Decatur County,Indiana,18031,931,576,1308
+Wyandot County,Ohio,39175,931,615,1302
+Oconee County,Georgia,13219,932,525,1585
+Holmes County,Florida,12059,933,758,1126
+Calhoun County,Mississippi,28013,933,673,1242
+Wyoming County,Pennsylvania,42131,933,546,1418
+Cass County,Nebraska,31025,935,746,1153
+Freeborn County,Minnesota,27047,940,636,1312
+Mcintosh County,Oklahoma,40091,940,635,1296
+Montezuma County,Colorado,08083,943,640,1289
+Union County,Georgia,13291,943,589,1396
+Sabine Parish,Louisiana,22085,943,590,1414
+Henry County,Alabama,01067,944,625,1301
+Fayette County,Alabama,01057,945,640,1276
+Scott County,Indiana,18143,949,611,1364
+Assumption Parish,Louisiana,22007,949,610,1401
+La Paz County,Arizona,04012,950,571,1465
+Madison County,Georgia,13195,950,575,1408
+Labette County,Kansas,20099,951,721,1220
+Logan County,Kentucky,21141,952,660,1330
+Warren County,Missouri,29219,953,588,1412
+Finney County,Kansas,20055,955,729,1221
+Ogemaw County,Michigan,26129,955,603,1425
+Chambers County,Texas,48071,957,519,1529
+Kent County,Maryland,24029,961,779,1158
+Bibb County,Alabama,01007,962,655,1353
+Woodford County,Kentucky,21239,963,562,1491
+Ray County,Missouri,29177,964,589,1407
+Rockbridge County,Virginia,51163,965,638,1384
+Wells County,Indiana,18179,967,619,1384
+Macon County,Tennessee,47111,968,632,1406
+Monroe County,Georgia,13207,969,592,1470
+Texas County,Missouri,29215,970,622,1418
+Curry County,Oregon,41015,970,608,1424
+Putnam County,Georgia,13237,971,608,1462
+Monroe County,Illinois,17133,974,589,1549
+Platte County,Nebraska,31141,974,782,1188
+Wetzel County,West Virginia,54103,974,677,1317
+Franklin Parish,Louisiana,22041,976,663,1318
+Jim Wells County,Texas,48249,977,520,1636
+Randolph County,Indiana,18135,980,658,1376
+Mille Lacs County,Minnesota,27095,980,709,1287
+Morgan County,Colorado,08087,983,689,1300
+Elk County,Pennsylvania,42047,983,596,1504
+Allen Parish,Louisiana,22003,987,660,1411
+Bamberg County,South Carolina,45009,988,692,1316
+Lake County,Montana,30047,991,811,1205
+Meriwether County,Georgia,13199,992,579,1417
+Crook County,Oregon,41013,992,651,1404
+Wayne County,Georgia,13305,993,565,1582
+Matagorda County,Texas,48321,993,549,1596
+Grady County,Georgia,13131,994,604,1445
+Grant County,New Mexico,35017,997,697,1368
+Houghton County,Michigan,26061,999,614,1427
+Tishomingo County,Mississippi,28141,1000,675,1368
+Lumpkin County,Georgia,13187,1002,571,1610
+Ohio County,Kentucky,21183,1003,667,1400
+Carroll County,Tennessee,47017,1004,683,1481
+Sheridan County,Wyoming,56033,1004,789,1254
+Steuben County,Indiana,18151,1007,625,1464
+Itawamba County,Mississippi,28057,1007,692,1402
+Campbell County,Wyoming,56005,1010,756,1316
+Grayson County,Kentucky,21085,1011,685,1381
+Giles County,Tennessee,47055,1011,591,1538
+Powhatan County,Virginia,51145,1011,591,1514
+Peach County,Georgia,13225,1012,610,1517
+Oceana County,Michigan,26127,1012,638,1521
+Geary County,Kansas,20061,1013,790,1280
+Franklin County,Maine,23007,1014,825,1228
+Lewis County,New York,36049,1014,771,1286
+White County,Georgia,13311,1015,560,1640
+Meade County,Kentucky,21163,1015,663,1412
+Saluda County,South Carolina,45081,1016,765,1335
+Stephens County,Georgia,13257,1017,636,1530
+Fulton County,Illinois,17057,1017,569,1595
+Nicollet County,Minnesota,27103,1017,706,1387
+Crawford County,Missouri,29055,1017,647,1461
+Wakulla County,Florida,12129,1018,797,1281
+Yazoo County,Mississippi,28163,1018,640,1527
+Lagrange County,Indiana,18087,1025,662,1519
+Jasper County,Mississippi,28061,1026,730,1382
+Scott County,Virginia,51169,1028,709,1436
+Becker County,Minnesota,27005,1029,762,1343
+Door County,Wisconsin,55029,1029,645,1487
+Bureau County,Illinois,17011,1031,640,1587
+Bryan County,Georgia,13029,1032,615,1600
+Erath County,Texas,48143,1032,599,1703
+Randolph County,Alabama,01111,1033,661,1496
+Garfield County,Colorado,08045,1036,688,1461
+Vernon County,Wisconsin,55123,1038,671,1517
+Wayne County,Mississippi,28153,1039,712,1454
+Taos County,New Mexico,35055,1039,703,1403
+Orange County,Vermont,50017,1041,841,1276
+Newton County,Mississippi,28101,1042,736,1389
+Livingston County,Illinois,17105,1043,636,1626
+Lafayette County,Missouri,29107,1045,712,1456
+Macon County,Alabama,01087,1046,698,1511
+Grenada County,Mississippi,28043,1046,724,1402
+Lyon County,Kansas,20111,1047,813,1344
+Polk County,Missouri,29167,1047,643,1566
+Montgomery County,Kentucky,21173,1048,736,1387
+Montgomery County,North Carolina,37123,1048,588,1606
+Hardeman County,Tennessee,47069,1049,712,1437
+White County,Indiana,18181,1050,741,1442
+Addison County,Vermont,50001,1050,819,1298
+Mcpherson County,Kansas,20113,1052,801,1359
+Randolph County,Missouri,29175,1052,726,1433
+Hampshire County,West Virginia,54027,1055,710,1390
+Cheboygan County,Michigan,26031,1056,617,1564
+Emmet County,Michigan,26047,1056,685,1533
+Cleburne County,Arkansas,05023,1058,687,1535
+Roscommon County,Michigan,26143,1058,683,1604
+Pierce County,Wisconsin,55093,1058,598,1652
+Audrain County,Missouri,29007,1060,647,1520
+Green County,Wisconsin,55045,1060,651,1576
+George County,Mississippi,28039,1061,695,1567
+Nicholas County,West Virginia,54067,1061,755,1435
+Pickens County,Alabama,01107,1062,732,1463
+Jasper County,Indiana,18073,1063,737,1452
+Mecosta County,Michigan,26107,1064,657,1594
+Lee County,Illinois,17103,1065,640,1651
+Caddo County,Oklahoma,40015,1066,728,1456
+Hardin County,Tennessee,47071,1067,682,1488
+Tattnall County,Georgia,13267,1069,667,1589
+Christian County,Illinois,17021,1069,629,1616
+Morrison County,Minnesota,27097,1070,757,1448
+Bradford County,Florida,12007,1071,856,1296
+Val Verde County,Texas,48465,1071,598,1801
+Delta County,Colorado,08029,1072,742,1508
+Randolph County,West Virginia,54083,1072,757,1468
+Toombs County,Georgia,13279,1075,640,1621
+Cooke County,Texas,48097,1078,616,1732
+Silver Bow County,Montana,30093,1079,793,1429
+Martin County,North Carolina,37117,1080,654,1630
+Uintah County,Utah,49047,1080,878,1303
+Gibson County,Indiana,18051,1083,705,1560
+Caldwell County,Texas,48055,1083,616,1678
+Jones County,Georgia,13169,1084,649,1703
+Hopkins County,Texas,48223,1084,614,1703
+Caroline County,Virginia,51033,1086,644,1671
+Jennings County,Indiana,18079,1090,708,1528
+Weakley County,Tennessee,47183,1090,711,1520
+Cass County,Texas,48067,1090,626,1652
+Crisp County,Georgia,13081,1094,674,1597
+Wyoming County,West Virginia,54109,1096,766,1462
+Douglas County,Minnesota,27041,1099,814,1489
+Kittitas County,Washington,53037,1101,765,1479
+Madison County,Florida,12079,1103,935,1281
+Barton County,Kansas,20009,1103,837,1409
+Lee County,Virginia,51105,1103,730,1531
+Leake County,Mississippi,28079,1104,759,1535
+Harrisonburg City,Virginia,51660,1105,647,1692
+Marion County,Mississippi,28091,1106,765,1520
+Hampton County,South Carolina,45049,1107,803,1393
+Kendall County,Texas,48259,1107,620,1786
+Sagadahoc County,Maine,23023,1109,894,1365
+Marshall County,Kentucky,21157,1110,736,1570
+Effingham County,Illinois,17049,1111,657,1688
+Winston County,Alabama,01133,1112,742,1599
+Jay County,Indiana,18075,1113,753,1550
+Polk County,North Carolina,37149,1113,668,1689
+Clay County,Mississippi,28025,1117,764,1532
+Upshur County,West Virginia,54097,1117,814,1505
+De Soto Parish,Louisiana,22031,1118,669,1647
+Richland Parish,Louisiana,22083,1118,763,1553
+Pulaski County,Missouri,29169,1120,694,1728
+Putnam County,Ohio,39137,1120,792,1515
+Jefferson County,Washington,53031,1121,830,1525
+Pacific County,Washington,53049,1122,819,1480
+Cherokee County,Kansas,20021,1126,861,1456
+Lincoln County,Maine,23015,1126,915,1354
+Cass County,Minnesota,27021,1126,843,1478
+Marshall County,Tennessee,47117,1127,727,1693
+Union Parish,Louisiana,22111,1129,754,1586
+Lee County,South Carolina,45061,1129,824,1450
+Fannin County,Georgia,13111,1132,671,1622
+Carroll County,Ohio,39019,1133,761,1571
+Butler County,Alabama,01013,1134,767,1545
+Oneida County,Wisconsin,55085,1135,831,1523
+Hill County,Texas,48217,1138,660,1776
+Washington County,Indiana,18175,1141,760,1615
+Madison County,Nebraska,31119,1142,904,1411
+Hopewell City,Virginia,51670,1143,767,1591
+Jasper County,Texas,48241,1146,618,1869
+Fremont County,Wyoming,56013,1146,928,1418
+Franklin County,Illinois,17055,1148,622,1808
+Greene County,Indiana,18055,1150,808,1585
+Morgan County,Illinois,17137,1151,664,1807
+Graham County,Arizona,04009,1153,795,1578
+Poinsett County,Arkansas,05111,1153,780,1608
+Lee County,Georgia,13177,1154,707,1719
+Pine County,Minnesota,27115,1154,847,1484
+Holmes County,Ohio,39075,1156,650,1808
+Fluvanna County,Virginia,51065,1156,730,1676
+Laclede County,Missouri,29105,1157,686,1818
+Dunn County,Wisconsin,55033,1157,698,1696
+Ashe County,North Carolina,37009,1158,723,1708
+Van Wert County,Ohio,39161,1159,803,1660
+Fayette County,Ohio,39047,1161,800,1610
+Gratiot County,Michigan,26057,1164,728,1685
+Phillips County,Arkansas,05107,1166,896,1472
+Plaquemines Parish,Louisiana,22075,1166,876,1469
+Cherokee County,Alabama,01019,1168,756,1669
+Northampton County,North Carolina,37131,1168,739,1666
+Alpena County,Michigan,26007,1169,704,1746
+Montrose County,Colorado,08085,1171,800,1639
+Lincoln County,Tennessee,47103,1171,704,1740
+Bertie County,North Carolina,37015,1172,784,1591
+Hocking County,Ohio,39073,1176,837,1560
+Adair County,Oklahoma,40001,1179,790,1633
+Marion County,Missouri,29127,1180,835,1618
+Snyder County,Pennsylvania,42109,1180,711,1712
+Decatur County,Georgia,13087,1182,733,1668
+Russell County,Virginia,51167,1182,774,1663
+Clinton County,Pennsylvania,42035,1184,745,1785
+Pontotoc County,Mississippi,28115,1188,769,1689
+Lawrence County,Missouri,29109,1188,733,1786
+Marion County,Iowa,19125,1190,777,1648
+Somerset County,Maryland,24039,1190,960,1482
+Cherokee County,North Carolina,37039,1194,802,1685
+Muscatine County,Iowa,19139,1195,797,1702
+Ravalli County,Montana,30081,1198,782,1722
+Mcnairy County,Tennessee,47109,1202,819,1654
+Wexford County,Michigan,26165,1204,797,1707
+Cheatham County,Tennessee,47021,1204,706,1909
+Ripley County,Indiana,18137,1205,868,1630
+Jefferson County,Illinois,17081,1206,651,1959
+Miami County,Indiana,18103,1206,791,1664
+Carter County,Kentucky,21043,1206,863,1617
+Perry County,Ohio,39127,1208,859,1636
+Garvin County,Oklahoma,40049,1208,833,1630
+Bennington County,Vermont,50003,1208,978,1456
+Webster County,Iowa,19187,1213,843,1680
+Jefferson County,Indiana,18077,1214,804,1685
+Harris County,Georgia,13145,1215,701,1812
+Botetourt County,Virginia,51023,1215,771,1746
+Woodford County,Illinois,17203,1216,724,1948
+Curry County,New Mexico,35009,1217,855,1616
+Webster County,Missouri,29225,1220,752,1894
+Mcdowell County,West Virginia,54047,1221,912,1549
+La Plata County,Colorado,08067,1224,864,1672
+Boyle County,Kentucky,21021,1225,771,1815
+Prentiss County,Mississippi,28117,1226,830,1766
+Gladwin County,Michigan,26051,1230,783,1854
+Mason County,Michigan,26105,1233,812,1771
+Carlton County,Minnesota,27017,1233,961,1605
+Sweetwater County,Wyoming,56037,1233,991,1518
+Sumter County,Georgia,13261,1239,779,1850
+Mineral County,West Virginia,54057,1239,868,1668
+Knox County,Maine,23013,1240,999,1487
+Chippewa County,Michigan,26033,1241,801,1746
+Yates County,New York,36123,1243,971,1550
+Ouachita County,Arkansas,05103,1245,907,1668
+Carroll County,Virginia,51035,1246,784,1832
+Calloway County,Kentucky,21035,1247,902,1692
+Douglas County,Washington,53017,1247,892,1703
+Steele County,Minnesota,27147,1249,907,1647
+Lincoln County,West Virginia,54043,1250,899,1642
+Logan County,Ohio,39091,1251,762,1966
+Washington County,Texas,48477,1252,689,1924
+Grundy County,Illinois,17063,1253,753,1851
+Dekalb County,Indiana,18033,1256,842,1776
+Perry County,Kentucky,21193,1257,944,1586
+White County,Tennessee,47185,1257,797,1868
+Clay County,Indiana,18021,1258,883,1681
+Johnson County,Kentucky,21115,1259,957,1641
+Tippah County,Mississippi,28139,1259,849,1764
+Adams County,Nebraska,31001,1259,1050,1507
+Washington County,Florida,12133,1260,1044,1481
+Mcleod County,Minnesota,27085,1260,891,1629
+Pickens County,Georgia,13227,1261,771,1891
+Holmes County,Mississippi,28051,1265,929,1635
+Barry County,Missouri,29009,1266,797,1853
+Meigs County,Ohio,39105,1266,912,1634
+Warren County,Pennsylvania,42123,1267,757,1927
+Brown County,South Dakota,46013,1268,1062,1520
+Seminole County,Oklahoma,40133,1271,878,1760
+Rio Arriba County,New Mexico,35039,1275,972,1609
+Clatsop County,Oregon,41007,1276,829,1755
+Putnam County,Indiana,18133,1278,865,1717
+Miami County,Kansas,20121,1279,1002,1589
+Nez Perce County,Idaho,16069,1281,969,1608
+Neshoba County,Mississippi,28099,1282,897,1730
+Clinton County,Ohio,39027,1283,754,2056
+Barnwell County,South Carolina,45011,1283,955,1630
+Harvey County,Kansas,20079,1289,977,1650
+Pike County,Alabama,01109,1290,852,1842
+Wharton County,Texas,48481,1291,773,2004
+Wilson County,Texas,48493,1293,726,2073
+Brooke County,West Virginia,54009,1293,893,1729
+Marengo County,Alabama,01091,1297,991,1646
+Union County,South Carolina,45087,1298,898,1760
+Gilmer County,Georgia,13123,1299,804,1948
+Prince George County,Virginia,51149,1299,891,1823
+Adams County,Ohio,39001,1301,932,1770
+Columbia County,Arkansas,05027,1304,920,1748
+Jackson County,North Carolina,37099,1304,878,1803
+Isanti County,Minnesota,27059,1305,892,1775
+Perry County,Pennsylvania,42099,1305,722,2059
+Claiborne County,Tennessee,47025,1308,815,2018
+Copiah County,Mississippi,28029,1311,864,1859
+Wythe County,Virginia,51197,1313,854,1959
+San Miguel County,New Mexico,35047,1314,929,1756
+Monroe County,Alabama,01099,1315,930,1797
+Person County,North Carolina,37145,1316,787,1966
+Yadkin County,North Carolina,37197,1316,774,2019
+Benton County,Minnesota,27009,1317,960,1734
+Marinette County,Wisconsin,55075,1317,836,1979
+Washington County,Maine,23029,1320,1088,1565
+St. Francis County,Arkansas,05123,1322,958,1716
+Iberville Parish,Louisiana,22047,1323,817,1958
+Hancock County,West Virginia,54029,1325,942,1829
+Jefferson Davis Parish,Louisiana,22053,1326,832,1851
+Morehouse Parish,Louisiana,22067,1326,908,1875
+Stone County,Missouri,29209,1326,797,2009
+Geneva County,Alabama,01061,1327,954,1742
+Essex County,New York,36031,1328,1019,1720
+Dare County,North Carolina,37055,1328,916,1916
+Clare County,Michigan,26035,1333,862,1887
+Baldwin County,Georgia,13009,1334,822,1991
+Wabash County,Indiana,18169,1334,901,1870
+Ware County,Georgia,13299,1337,884,1933
+Whitley County,Kentucky,21235,1339,920,1895
+Fayette County,Tennessee,47047,1341,829,1943
+Independence County,Arkansas,05063,1345,887,1860
+Alexander County,North Carolina,37003,1346,754,2136
+Iosco County,Michigan,26069,1347,861,1916
+Phelps County,Missouri,29161,1347,848,2022
+Atascosa County,Texas,48013,1351,772,2210
+Boone County,West Virginia,54005,1351,1008,1736
+Barbour County,Alabama,01005,1354,986,1839
+Amherst County,Virginia,51009,1354,849,2001
+Huron County,Michigan,26063,1355,894,1985
+Franklin County,Alabama,01059,1356,906,1828
+Hardee County,Florida,12049,1359,1108,1607
+Clark County,Kentucky,21049,1360,854,1979
+Dubois County,Indiana,18037,1361,881,1853
+Whitley County,Indiana,18183,1362,920,1897
+Cibola County,New Mexico,35006,1363,1098,1601
+Fremont County,Colorado,08043,1365,977,1833
+Buffalo County,Nebraska,31019,1365,1075,1699
+Hardin County,Ohio,39065,1365,946,1856
+Baker County,Florida,12003,1366,1103,1628
+Whitman County,Washington,53075,1368,1057,1717
+Pike County,Ohio,39131,1369,961,1865
+Transylvania County,North Carolina,37175,1370,883,1922
+Madison County,Ohio,39097,1370,862,1974
+Dinwiddie County,Virginia,51053,1370,914,1935
+Graves County,Kentucky,21083,1374,967,1838
+Page County,Virginia,51139,1377,838,1955
+Schoharie County,New York,36095,1380,1047,1752
+Louisa County,Virginia,51109,1380,850,2007
+Branch County,Michigan,26023,1384,884,1977
+Fairfield County,South Carolina,45039,1386,966,1869
+Harrison County,Indiana,18061,1388,957,1927
+Bolivar County,Mississippi,28011,1389,984,1899
+Evangeline Parish,Louisiana,22039,1392,883,2047
+Coffee County,Georgia,13069,1395,853,2116
+Mercer County,Ohio,39107,1395,1021,1827
+Anderson County,Texas,48001,1395,815,2173
+Polk County,Georgia,13233,1398,809,2117
+Clinton County,Illinois,17027,1405,830,2084
+Champaign County,Ohio,39021,1406,894,2112
+Ogle County,Illinois,17141,1409,824,2274
+Windham County,Vermont,50025,1413,1138,1733
+Crawford County,Ohio,39033,1416,963,1926
+Goodhue County,Minnesota,27049,1420,1016,1933
+Garrett County,Maryland,24023,1422,1185,1702
+Kandiyohi County,Minnesota,27067,1422,1061,1858
+Knox County,Kentucky,21121,1423,984,1956
+Abbeville County,South Carolina,45001,1423,1062,1811
+Muhlenberg County,Kentucky,21177,1426,1042,1899
+Fulton County,Ohio,39051,1426,950,1984
+Scott County,Kentucky,21209,1427,857,2129
+Macon County,North Carolina,37113,1429,926,2076
+Beauregard Parish,Louisiana,22011,1430,917,1959
+Stoddard County,Missouri,29207,1430,1049,1882
+Upshur County,Texas,48459,1432,844,2187
+Rhea County,Tennessee,47143,1433,889,2089
+Grant County,Wisconsin,55043,1433,889,2075
+Simpson County,Mississippi,28127,1434,923,2000
+Tate County,Mississippi,28137,1434,1033,1933
+Coos County,New Hampshire,33007,1434,1167,1719
+Bonner County,Idaho,16017,1435,1046,1907
+Morrow County,Ohio,39117,1436,987,1920
+Susquehanna County,Pennsylvania,42115,1438,836,2263
+Mcclain County,Oklahoma,40087,1439,1012,1961
+Smyth County,Virginia,51173,1439,921,2038
+Guernsey County,Ohio,39059,1441,1029,1928
+Iron County,Utah,49021,1441,1044,1876
+Jackson County,West Virginia,54035,1441,1066,1889
+Bristol County,Rhode Island,44001,1442,1113,1856
+Jackson County,Indiana,18071,1443,994,2077
+Clinton County,Indiana,18023,1445,986,1961
+Campbell County,Tennessee,47013,1445,908,2174
+Marion County,Illinois,17121,1450,853,2234
+Maverick County,Texas,48323,1454,804,2341
+Isle Of Wight County,Virginia,51093,1454,979,2057
+Oconto County,Wisconsin,55083,1454,896,2194
+Macoupin County,Illinois,17117,1455,849,2242
+Hendry County,Florida,12051,1459,1170,1785
+St. John The Baptist Parish,Louisiana,22095,1463,910,2174
+Clay County,Minnesota,27027,1466,1069,1914
+Scott County,Mississippi,28123,1468,1048,1954
+Marshall County,Iowa,19127,1469,1014,1984
+Brown County,Texas,48049,1470,877,2214
+Watauga County,North Carolina,37189,1471,898,2213
+Box Elder County,Utah,49003,1471,1072,1871
+Mason County,West Virginia,54053,1473,1053,1956
+Murray County,Georgia,13213,1474,875,2205
+Winona County,Minnesota,27169,1479,1029,1947
+Sunflower County,Mississippi,28133,1480,1082,1915
+Obion County,Tennessee,47131,1481,1025,2014
+Lauderdale County,Tennessee,47097,1482,1051,1953
+Mower County,Minnesota,27099,1484,1036,1987
+Shawano County,Wisconsin,55115,1485,957,2091
+Polk County,Wisconsin,55095,1486,992,2138
+Habersham County,Georgia,13137,1488,906,2259
+Bingham County,Idaho,16011,1495,1130,1912
+Calumet County,Wisconsin,55015,1495,912,2216
+Harlan County,Kentucky,21095,1496,1056,2015
+Lee County,Iowa,19111,1500,1093,2028
+Knox County,Indiana,18083,1501,1027,2069
+Nelson County,Kentucky,21179,1501,1022,2069
+Tift County,Georgia,13277,1502,966,2127
+St. Charles Parish,Louisiana,22089,1506,964,2134
+Adams County,Mississippi,28001,1507,1104,1982
+Lawrence County,Alabama,01079,1508,959,2200
+Dodge County,Nebraska,31053,1509,1221,1821
+Wood County,Texas,48499,1509,891,2344
+Douglas County,Nevada,32005,1511,1088,2033
+Portage County,Wisconsin,55097,1511,978,2213
+Okmulgee County,Oklahoma,40111,1515,1023,2133
+Shelby County,Kentucky,21211,1516,1023,2104
+Scotland County,North Carolina,37165,1516,956,2197
+Boone County,Illinois,17007,1517,883,2340
+Seneca County,New York,36099,1518,1171,1898
+Jasper County,Iowa,19099,1520,1101,2056
+Shelby County,Ohio,39149,1521,955,2219
+Union County,Pennsylvania,42119,1521,987,2235
+Lincoln County,Nebraska,31111,1522,1280,1782
+Starr County,Texas,48427,1523,858,2386
+Charlottesville City,Virginia,51540,1523,899,2332
+Chisago County,Minnesota,27025,1524,1098,2076
+Ottawa County,Oklahoma,40115,1526,1003,2069
+Preston County,West Virginia,54077,1527,1123,1963
+Crawford County,Kansas,20037,1528,1242,1837
+Santa Cruz County,Arizona,04023,1530,1047,2114
+Riley County,Kansas,20161,1531,1187,1925
+Lincoln County,South Dakota,46083,1532,1245,1848
+Montgomery County,Kansas,20125,1534,1213,1898
+Tioga County,Pennsylvania,42117,1534,1011,2196
+Preble County,Ohio,39135,1537,904,2268
+Defiance County,Ohio,39039,1538,1053,2139
+Okanogan County,Washington,53047,1538,1153,2012
+Pasquotank County,North Carolina,37139,1539,1039,2155
+Edgefield County,South Carolina,45037,1539,1138,1951
+Newaygo County,Michigan,26123,1540,1034,2210
+Leflore County,Mississippi,28083,1540,1148,1977
+Pulaski County,Virginia,51155,1540,995,2176
+Monroe County,Tennessee,47123,1547,925,2280
+Beltrami County,Minnesota,27007,1555,1230,1908
+Douglas County,Wisconsin,55031,1555,990,2275
+Waldo County,Maine,23027,1557,1291,1862
+Clarion County,Pennsylvania,42031,1557,965,2253
+Marion County,Tennessee,47115,1557,1046,2163
+Scotts Bluff County,Nebraska,31157,1559,1329,1811
+Cowley County,Kansas,20035,1560,1209,1929
+Monroe County,Wisconsin,55081,1560,966,2254
+Orange County,Virginia,51137,1563,1070,2130
+Boone County,Arkansas,05009,1564,1112,2064
+Lincoln County,Mississippi,28085,1564,1162,2012
+Marshall County,Mississippi,28093,1564,963,2176
+Vance County,North Carolina,37181,1564,900,2554
+Henry County,Tennessee,47079,1565,1060,2133
+Mayes County,Oklahoma,40097,1570,1061,2217
+Siskiyou County,California,06093,1572,961,2376
+Wayne County,Pennsylvania,42127,1574,938,2544
+Dyer County,Tennessee,47045,1574,1042,2221
+Warren County,Iowa,19181,1575,1052,2170
+Coahoma County,Mississippi,28027,1575,1161,2021
+Jackson County,Illinois,17077,1578,973,2416
+Letcher County,Kentucky,21133,1579,1227,1971
+Huntington County,Indiana,18069,1580,1135,2075
+Marshall County,West Virginia,54051,1580,1169,2061
+Broomfield County,Colorado,08014,1582,1089,2207
+Henderson County,Tennessee,47077,1585,1152,2067
+Oldham County,Kentucky,21185,1587,1072,2226
+Lincoln County,Oklahoma,40081,1587,1131,2206
+Talbot County,Maryland,24041,1589,1317,1879
+Camden County,Missouri,29029,1589,1044,2333
+Rice County,Minnesota,27131,1592,1194,2069
+Mingo County,West Virginia,54059,1592,1178,2073
+Navarro County,Texas,48349,1593,890,2586
+Sanilac County,Michigan,26151,1597,1043,2330
+Hertford County,North Carolina,37091,1604,1059,2188
+Pontotoc County,Oklahoma,40123,1604,1104,2128
+Tuscola County,Michigan,26157,1605,996,2363
+Marion County,Alabama,01093,1606,1127,2205
+Sullivan County,New Hampshire,33019,1606,1292,1978
+Coshocton County,Ohio,39031,1611,1145,2166
+Bedford County,Tennessee,47003,1615,1016,2415
+San Benito County,California,06069,1618,921,2482
+Dearborn County,Indiana,18029,1623,1104,2328
+Marlboro County,South Carolina,45069,1623,1228,2097
+Williams County,Ohio,39171,1624,1096,2222
+Walker County,Texas,48471,1631,921,2554
+Jasper County,South Carolina,45053,1639,1245,2110
+Elko County,Nevada,32007,1642,1238,2135
+Medina County,Texas,48325,1642,985,2551
+Delaware County,New York,36025,1644,1214,2155
+Washington County,Vermont,50023,1646,1351,1982
+Waupaca County,Wisconsin,55135,1659,1012,2450
+Wyoming County,New York,36121,1661,1272,2098
+Burnet County,Texas,48053,1663,892,2589
+Darke County,Ohio,39037,1665,1007,2580
+Gallia County,Ohio,39053,1667,1242,2144
+Danville City,Virginia,51590,1667,1113,2436
+Des Moines County,Iowa,19057,1668,1211,2201
+Pettis County,Missouri,29159,1669,1075,2405
+Mccurtain County,Oklahoma,40089,1669,1217,2181
+Stevens County,Washington,53065,1672,1278,2111
+Mckean County,Pennsylvania,42083,1673,1106,2335
+Culpeper County,Virginia,51047,1674,1087,2360
+Warren County,Virginia,51187,1676,1095,2365
+Coles County,Illinois,17029,1679,985,2524
+Blue Earth County,Minnesota,27013,1681,1241,2183
+Bedford County,Pennsylvania,42009,1681,1005,2604
+Lawrence County,Tennessee,47099,1681,1113,2351
+Auglaize County,Ohio,39011,1685,1256,2164
+Delta County,Michigan,26041,1686,1100,2425
+Amador County,California,06005,1690,990,2541
+Queen Annes County,Maryland,24035,1694,1403,2009
+Gloucester County,Virginia,51073,1694,1182,2277
+Johnson County,Missouri,29101,1695,1251,2282
+Hardin County,Texas,48199,1697,1000,2735
+Webster Parish,Louisiana,22119,1698,1130,2396
+Clarke County,Alabama,01025,1701,1236,2234
+Carroll County,New Hampshire,33003,1701,1349,2122
+Bell County,Kentucky,21013,1704,1184,2274
+Desoto County,Florida,12027,1707,1417,2056
+Hancock County,Maine,23009,1707,1376,2074
+Accomack County,Virginia,51001,1718,1276,2203
+Jackson County,Ohio,39079,1719,1255,2182
+Dickson County,Tennessee,47043,1722,1048,2585
+Lincoln Parish,Louisiana,22061,1723,1213,2281
+Oktibbeha County,Mississippi,28105,1728,1263,2253
+Caroline County,Maryland,24011,1733,1459,2025
+Logan County,Oklahoma,40083,1736,1251,2333
+Allegany County,New York,36003,1737,1296,2233
+Newton County,Missouri,29145,1738,1096,2640
+Sequoyah County,Oklahoma,40135,1742,1211,2380
+Cerro Gordo County,Iowa,19033,1743,1225,2350
+Montgomery County,Indiana,18107,1744,1286,2306
+Ottawa County,Ohio,39123,1749,1221,2334
+Hoke County,North Carolina,37093,1752,1046,2601
+Greenbrier County,West Virginia,54025,1755,1323,2283
+Union County,Ohio,39159,1760,1241,2414
+Tuolumne County,California,06109,1768,1043,2790
+Ashland County,Ohio,39005,1779,1158,2537
+Panola County,Mississippi,28107,1781,1261,2364
+Noble County,Indiana,18113,1784,1243,2414
+Whiteside County,Illinois,17195,1785,1075,2711
+Hancock County,Mississippi,28045,1787,1187,2596
+Clinton County,Iowa,19045,1788,1278,2416
+Belknap County,New Hampshire,33001,1793,1411,2239
+Callaway County,Missouri,29027,1794,1173,2527
+Columbia County,New York,36021,1796,1300,2412
+Stokes County,North Carolina,37169,1796,1118,2716
+Davie County,North Carolina,37059,1800,1111,2696
+Hot Spring County,Arkansas,05059,1802,1284,2367
+Union County,Arkansas,05139,1802,1269,2387
+Kenai Peninsula Borough,Alaska,02122,1804,1427,2264
+Gallatin County,Montana,30031,1804,1325,2389
+Calaveras County,California,06009,1807,1053,2836
+Waller County,Texas,48473,1808,1550,2085
+Wapello County,Iowa,19179,1809,1307,2366
+Natchitoches Parish,Louisiana,22069,1811,1263,2471
+Jefferson County,Pennsylvania,42065,1814,1128,2626
+Greene County,New York,36039,1817,1384,2332
+Butler County,Missouri,29023,1821,1258,2576
+Cass County,Indiana,18017,1824,1315,2443
+Itasca County,Minnesota,27061,1825,1408,2322
+Delaware County,Oklahoma,40041,1826,1290,2523
+Isabella County,Michigan,26073,1827,1186,2628
+Avoyelles Parish,Louisiana,22009,1829,1256,2497
+Stephenson County,Illinois,17177,1834,1148,2636
+Marshall County,Indiana,18099,1834,1208,2525
+Montgomery County,New York,36057,1844,1397,2338
+Alcorn County,Mississippi,28003,1845,1283,2444
+Brown County,Ohio,39015,1847,1313,2531
+Covington County,Alabama,01039,1848,1348,2457
+Greene County,Arkansas,05055,1848,1254,2608
+Huntingdon County,Pennsylvania,42061,1852,1136,2810
+Okeechobee County,Florida,12093,1853,1527,2200
+Colquitt County,Georgia,13071,1853,1166,2715
+Monroe County,Mississippi,28095,1853,1396,2405
+Petersburg City,Virginia,51730,1853,1323,2453
+Windsor County,Vermont,50027,1858,1551,2224
+Osage County,Oklahoma,40113,1860,1342,2388
+Hillsdale County,Michigan,26059,1861,1287,2540
+Cortland County,New York,36023,1861,1422,2331
+Vernon Parish,Louisiana,22115,1864,1296,2555
+Barron County,Wisconsin,55005,1864,1220,2692
+Cocke County,Tennessee,47029,1868,1213,2776
+Carter County,Oklahoma,40019,1869,1356,2438
+Franklin County,Vermont,50011,1869,1544,2239
+Chelan County,Washington,53007,1872,1310,2509
+Jefferson County,Wisconsin,55055,1875,1119,2720
+Chippewa County,Wisconsin,55017,1880,1197,2746
+Columbia County,Wisconsin,55021,1880,1171,2664
+Dunklin County,Missouri,29069,1881,1476,2362
+Bladen County,North Carolina,37017,1884,1246,2825
+Warren County,Tennessee,47177,1885,1304,2648
+Hood County,Texas,48221,1889,1114,2983
+Jessamine County,Kentucky,21113,1892,1217,2757
+Eddy County,New Mexico,35015,1898,1448,2425
+Otter Tail County,Minnesota,27111,1900,1444,2442
+Lewis And Clark County,Montana,30049,1903,1408,2573
+St. Francois County,Missouri,29187,1906,1300,2675
+Chester County,South Carolina,45023,1907,1453,2387
+Columbia County,Oregon,41009,1908,1249,2630
+Barren County,Kentucky,21009,1924,1347,2650
+Greenup County,Kentucky,21089,1925,1480,2415
+Van Zandt County,Texas,48467,1927,1174,3016
+Miller County,Arkansas,05091,1929,1400,2559
+Effingham County,Georgia,13103,1931,1211,2785
+Henry County,Illinois,17073,1933,1174,2826
+Beaufort County,North Carolina,37013,1934,1205,2861
+Saline County,Kansas,20169,1935,1557,2350
+Benton County,Oregon,41003,1940,1340,2708
+Jefferson County,West Virginia,54037,1943,1402,2568
+Taney County,Missouri,29213,1946,1221,2786
+Ohio County,West Virginia,54069,1949,1461,2489
+Shelby County,Indiana,18145,1958,1367,2677
+Stephens County,Oklahoma,40137,1960,1429,2522
+Polk County,Texas,48373,1961,1148,2907
+San Patricio County,Texas,48409,1962,1186,2965
+Mecklenburg County,Virginia,51117,1965,1438,2479
+Shenandoah County,Virginia,51171,1971,1364,2636
+St. Bernard Parish,Louisiana,22087,1975,1522,2466
+Lyon County,Nevada,32019,1975,1494,2529
+Tazewell County,Virginia,51185,1975,1387,2653
+Logan County,West Virginia,54045,1975,1461,2586
+Grady County,Oklahoma,40051,1977,1395,2590
+Highland County,Ohio,39071,1979,1446,2603
+Hopkins County,Kentucky,21107,1984,1476,2549
+Tioga County,New York,36107,1991,1500,2524
+Cherokee County,Texas,48073,1991,1335,2919
+Yuba County,California,06115,1994,1208,3004
+Franklin County,Tennessee,47051,1999,1357,2787
+Monroe County,Florida,12087,2017,1484,2699
+Mcdowell County,North Carolina,37111,2018,1364,2747
+Garfield County,Oklahoma,40047,2020,1535,2612
+Carbon County,Pennsylvania,42025,2021,1105,3069
+Floyd County,Kentucky,21071,2025,1554,2585
+Vermilion Parish,Louisiana,22113,2027,1315,2860
+Jefferson County,Tennessee,47089,2043,1259,3053
+Grand Forks County,North Dakota,38035,2044,1649,2489
+Pittsburg County,Oklahoma,40121,2045,1474,2636
+Granville County,North Carolina,37077,2046,1236,3207
+Wise County,Virginia,51195,2051,1496,2665
+Oxford County,Maine,23017,2057,1663,2491
+Henry County,Indiana,18065,2064,1406,2873
+Ward County,North Dakota,38101,2064,1715,2438
+Howell County,Missouri,29091,2074,1438,2761
+Lafayette County,Mississippi,28071,2075,1523,2792
+Wood County,Wisconsin,55141,2075,1356,2902
+Huron County,Ohio,39077,2076,1435,2957
+Crow Wing County,Minnesota,27035,2077,1586,2653
+Coryell County,Texas,48099,2079,1229,3149
+Marquette County,Michigan,26103,2084,1393,2990
+Colleton County,South Carolina,45029,2085,1612,2602
+Thomas County,Georgia,13275,2086,1414,2939
+Newberry County,South Carolina,45071,2086,1608,2570
+Kay County,Oklahoma,40071,2089,1469,2808
+Hall County,Nebraska,31079,2102,1732,2524
+Otsego County,New York,36077,2103,1627,2651
+Marion County,West Virginia,54049,2103,1556,2777
+Autauga County,Alabama,01001,2107,1475,2940
+Chambers County,Alabama,01017,2112,1495,2849
+Bryan County,Oklahoma,40013,2112,1476,2854
+Fairbanks North Star Borough,Alaska,02090,2114,1652,2571
+Clarendon County,South Carolina,45027,2116,1635,2664
+Cole County,Missouri,29051,2119,1397,3087
+Butler County,Kansas,20015,2120,1690,2635
+Coffee County,Tennessee,47031,2129,1391,3066
+Tallapoosa County,Alabama,01123,2140,1590,2811
+Tehama County,California,06103,2140,1352,3323
+Dorchester County,Maryland,24019,2141,1813,2502
+Liberty County,Texas,48291,2145,1175,3414
+Franklin County,North Carolina,37069,2148,1301,3227
+Gordon County,Georgia,13129,2152,1364,3198
+Ionia County,Michigan,26067,2155,1461,3093
+Chenango County,New York,36017,2158,1705,2677
+Sherburne County,Minnesota,27141,2159,1580,2849
+Warren County,New York,36113,2163,1596,2783
+Dallas County,Iowa,19049,2166,1587,2796
+Franklin County,New York,36033,2168,1740,2613
+Mississippi County,Arkansas,05093,2179,1629,2778
+Escambia County,Alabama,01053,2186,1580,2915
+Story County,Iowa,19169,2186,1613,2832
+Franklin County,Kentucky,21073,2200,1468,3123
+Knox County,Ohio,39083,2207,1641,2838
+Tompkins County,New York,36109,2209,1621,2930
+Liberty County,Georgia,13179,2212,1462,3182
+Tooele County,Utah,49045,2215,1866,2597
+Suwannee County,Florida,12121,2217,1830,2612
+Levy County,Florida,12075,2218,1848,2660
+Camden County,Georgia,13039,2225,1539,3078
+Walla Walla County,Washington,53071,2228,1707,2791
+Dillon County,South Carolina,45033,2229,1721,2764
+York County,Virginia,51199,2232,1505,3115
+Pickaway County,Ohio,39129,2237,1508,3137
+Mcminn County,Tennessee,47107,2237,1589,3070
+Fauquier County,Virginia,51061,2243,1518,3105
+Jackson County,Georgia,13157,2244,1470,3202
+Cache County,Utah,49005,2250,1761,2791
+Orleans County,New York,36073,2253,1761,2813
+Baxter County,Arkansas,05005,2258,1695,2904
+Lawrence County,Indiana,18093,2259,1586,2970
+Franklin County,Virginia,51067,2259,1481,3256
+Rutland County,Vermont,50021,2263,1885,2677
+Carson City,Nevada,32510,2268,1741,2875
+Seneca County,Ohio,39147,2276,1647,3086
+Pike County,Mississippi,28113,2278,1778,2837
+Stanly County,North Carolina,37167,2278,1404,3337
+Kerr County,Texas,48265,2286,1299,3428
+St. Croix County,Wisconsin,55109,2293,1451,3420
+Nye County,Nevada,32023,2296,1759,2932
+Chatham County,North Carolina,37037,2296,1355,3485
+Robertson County,Tennessee,47147,2297,1381,3315
+Knox County,Illinois,17095,2303,1461,3325
+Scott County,Missouri,29201,2307,1818,2885
+Putnam County,West Virginia,54079,2319,1765,2984
+Wise County,Texas,48497,2324,1423,3535
+Campbell County,Virginia,51031,2324,1608,3152
+Pope County,Arkansas,05115,2333,1745,2980
+Boone County,Indiana,18011,2334,1721,2974
+Fulton County,New York,36035,2340,1864,2880
+Lee County,North Carolina,37105,2349,1607,3288
+Loudon County,Tennessee,47105,2349,1494,3396
+Chilton County,Alabama,01021,2351,1687,3175
+Montgomery County,Virginia,51121,2354,1600,3280
+Grafton County,New Hampshire,33009,2357,1877,2933
+Natrona County,Wyoming,56025,2359,1973,2811
+Mason County,Washington,53045,2365,1821,3118
+Harrison County,Texas,48203,2371,1387,3635
+Troup County,Georgia,13285,2372,1462,3672
+Mccracken County,Kentucky,21145,2375,1784,3013
+Lamar County,Texas,48277,2384,1943,2922
+Pike County,Pennsylvania,42103,2393,1536,3545
+Somerset County,Maine,23025,2397,2011,2834
+Carver County,Minnesota,27019,2398,1759,3179
+Boyd County,Kentucky,21019,2402,1835,2999
+Adams County,Illinois,17001,2405,1581,3428
+Putnam County,New York,36079,2410,1726,3243
+Cass County,Michigan,26027,2421,1638,3496
+Armstrong County,Pennsylvania,42005,2425,1532,3622
+Dallas County,Alabama,01047,2430,1994,2889
+Roane County,Tennessee,47145,2432,1613,3495
+Mifflin County,Pennsylvania,42087,2441,1507,3569
+Cheshire County,New Hampshire,33005,2447,1980,2999
+Pearl River County,Mississippi,28109,2452,1797,3182
+Montcalm County,Michigan,26117,2454,1639,3312
+Reno County,Kansas,20155,2456,2015,2977
+Halifax County,Virginia,51083,2457,1802,3143
+St. Martin Parish,Louisiana,22099,2458,1682,3427
+Lea County,New Mexico,35025,2459,1875,3125
+Marion County,South Carolina,45067,2469,1951,3055
+Worcester County,Maryland,24047,2470,1987,3056
+Warren County,Mississippi,28149,2480,1703,3412
+Henderson County,Kentucky,21101,2484,1842,3228
+Vermilion County,Illinois,17183,2490,1512,3877
+Columbia County,Pennsylvania,42037,2490,1741,3382
+Cascade County,Montana,30013,2492,1984,3040
+St. Joseph County,Michigan,26149,2493,1638,3486
+Ozaukee County,Wisconsin,55089,2497,1605,3665
+Dekalb County,Illinois,17037,2502,1580,3514
+Venango County,Pennsylvania,42121,2508,1678,3539
+Bradford County,Pennsylvania,42015,2513,1740,3412
+Lake County,California,06033,2517,1521,3802
+James City County,Virginia,51095,2523,1616,3503
+Sauk County,Wisconsin,55111,2524,1686,3520
+Newport County,Rhode Island,44005,2534,2074,3067
+Dale County,Alabama,01045,2537,1927,3282
+Gibson County,Tennessee,47053,2539,1862,3341
+Cherokee County,Oklahoma,40021,2542,1828,3381
+Mendocino County,California,06045,2545,1640,3625
+Haywood County,North Carolina,37087,2547,1879,3406
+Umatilla County,Oregon,41059,2547,1711,3495
+Herkimer County,New York,36043,2552,2017,3139
+Lincoln County,Oregon,41041,2552,1814,3334
+Twin Falls County,Idaho,16083,2563,2012,3189
+Rusk County,Texas,48401,2564,2043,3146
+Klamath County,Oregon,41035,2565,1765,3485
+Franklin County,Washington,53021,2566,1867,3339
+Shiawassee County,Michigan,26155,2570,1809,3439
+Livingston County,New York,36051,2570,1941,3227
+Le Flore County,Oklahoma,40079,2571,1903,3341
+St. Mary Parish,Louisiana,22101,2581,1795,3419
+Lincoln County,Missouri,29113,2583,1791,3528
+Chaves County,New Mexico,35005,2591,2001,3225
+Forrest County,Mississippi,28035,2592,1957,3354
+Crittenden County,Arkansas,05035,2593,1987,3339
+Christian County,Kentucky,21047,2595,2022,3280
+Washington County,Oklahoma,40147,2595,1894,3299
+Laurens County,Georgia,13175,2601,1945,3356
+Genesee County,New York,36037,2607,2032,3241
+Acadia Parish,Louisiana,22001,2609,1826,3582
+Otero County,New Mexico,35035,2612,2060,3281
+Sandusky County,Ohio,39143,2623,1914,3507
+Madison County,New York,36053,2626,2015,3333
+Lamar County,Mississippi,28073,2627,1899,3502
+Richmond County,North Carolina,37153,2628,1680,3723
+Grand Traverse County,Michigan,26055,2641,1891,3538
+Rockwall County,Texas,48397,2650,1464,4295
+Gila County,Arizona,04007,2653,2223,3155
+Bastrop County,Texas,48021,2656,1667,3706
+Indiana County,Pennsylvania,42063,2658,1656,4006
+Morgan County,Indiana,18109,2666,1998,3481
+Edgecombe County,North Carolina,37065,2667,1752,3851
+Coos County,Oregon,41011,2669,1922,3635
+Island County,Washington,53029,2672,1927,3382
+Matanuska-Susitna Borough,Alaska,02170,2682,2181,3253
+Bulloch County,Georgia,13031,2692,1845,3688
+Lapeer County,Michigan,26087,2707,1791,3882
+Carteret County,North Carolina,37031,2710,1798,3948
+Kauai County,Hawaii,15007,2711,2342,3075
+Nevada County,California,06057,2716,1664,4094
+Hancock County,Ohio,39063,2721,2012,3467
+Wayne County,West Virginia,54099,2721,2157,3338
+Polk County,Oregon,41053,2732,1945,3700
+Somerset County,Pennsylvania,42111,2737,1632,4001
+Rockingham County,Virginia,51165,2742,1941,3737
+Williamson County,Illinois,17199,2754,1774,4075
+Anderson County,Tennessee,47001,2768,1763,3966
+Wilkes County,North Carolina,37193,2769,1786,3999
+Washington County,New York,36115,2775,2202,3365
+Sampson County,North Carolina,37163,2781,1840,3895
+Chesterfield County,South Carolina,45025,2781,2185,3548
+Walworth County,Wisconsin,55127,2786,1878,3901
+Pender County,North Carolina,37141,2791,1841,3874
+Payne County,Oklahoma,40119,2791,2074,3565
+Athens County,Ohio,39009,2796,2220,3418
+Spalding County,Georgia,13255,2799,1749,4026
+Tipton County,Tennessee,47167,2802,1944,3790
+Cumberland County,Tennessee,47035,2808,1949,3931
+Dekalb County,Alabama,01049,2826,2056,3650
+Catoosa County,Georgia,13047,2827,1809,4079
+Missoula County,Montana,30063,2837,2156,3666
+Geauga County,Ohio,39055,2846,1791,4112
+Williamsburg County,South Carolina,45089,2848,2446,3285
+Coffee County,Alabama,01031,2853,2117,3679
+Washington County,Mississippi,28151,2853,2290,3472
+Franklin County,Massachusetts,25011,2858,1986,3822
+Kershaw County,South Carolina,45055,2860,2060,3890
+Kaufman County,Texas,48257,2862,1621,4497
+Clearfield County,Pennsylvania,42033,2863,1739,4099
+Warrick County,Indiana,18173,2865,2070,3661
+Marion County,Ohio,39101,2865,2183,3586
+Valencia County,New Mexico,35061,2877,2201,3725
+Dubuque County,Iowa,19061,2878,2142,3790
+Cherokee County,South Carolina,45021,2878,2045,3819
+Nacogdoches County,Texas,48347,2878,2337,3534
+Lonoke County,Arkansas,05085,2879,2103,3682
+Douglas County,Kansas,20045,2881,2405,3395
+Blount County,Alabama,01009,2884,2027,3769
+Fayette County,West Virginia,54019,2889,2293,3533
+Christian County,Missouri,29043,2897,1805,4219
+Russell County,Alabama,01113,2900,1880,4089
+Barrow County,Georgia,13013,2901,1843,4216
+Jackson County,Alabama,01071,2915,2065,3923
+Flathead County,Montana,30029,2938,2213,3764
+Washington County,Virginia,51191,2941,2143,3827
+Woodbury County,Iowa,19193,2952,2207,3780
+Jackson County,Florida,12063,2953,2525,3384
+Hawkins County,Tennessee,47073,2960,2077,3877
+Crawford County,Arkansas,05033,2966,2199,3873
+Barry County,Michigan,26015,2973,2066,4018
+Putnam County,Tennessee,47141,2979,2096,4101
+Clallam County,Washington,53009,2982,2251,3806
+Grant County,Washington,53025,2983,2305,3745
+Bannock County,Idaho,16005,2987,2418,3673
+Leavenworth County,Kansas,20103,3000,2497,3561
+Clinton County,Michigan,26037,3001,2121,4208
+Manitowoc County,Wisconsin,55071,3002,2044,4107
+Cayuga County,New York,36011,3006,2311,3832
+Bartholomew County,Indiana,18005,3010,2100,3966
+Sullivan County,New York,36105,3031,2316,3859
+Washington County,Ohio,39167,3034,2372,3691
+Iberia Parish,Louisiana,22045,3039,2163,3988
+Walker County,Alabama,01127,3041,2283,3819
+Wright County,Minnesota,27171,3045,2232,3883
+Lynchburg City,Virginia,51680,3053,2181,4055
+Laurel County,Kentucky,21125,3066,2279,3925
+Madison County,Kentucky,21151,3073,2078,4283
+Dodge County,Wisconsin,55027,3077,2145,4218
+Lewis County,Washington,53041,3086,2334,3957
+Eau Claire County,Wisconsin,55035,3098,2125,4227
+Bonneville County,Idaho,16019,3101,2465,3787
+Walton County,Florida,12131,3123,2576,3765
+Mercer County,West Virginia,54055,3123,2421,3909
+Sutter County,California,06101,3138,1965,4716
+Lincoln County,North Carolina,37109,3140,1850,4651
+Frederick County,Virginia,51069,3140,2065,4385
+Duplin County,North Carolina,37061,3143,2099,4380
+Laurens County,South Carolina,45059,3144,2532,3837
+Rutherford County,North Carolina,37161,3146,2077,4336
+Lenoir County,North Carolina,37107,3148,2062,4547
+Muskogee County,Oklahoma,40101,3148,2396,4045
+La Crosse County,Wisconsin,55063,3151,2113,4452
+Maury County,Tennessee,47119,3154,2109,4312
+Burleigh County,North Dakota,38015,3160,2686,3684
+Carter County,Tennessee,47019,3169,2289,4141
+Parker County,Texas,48367,3177,1929,4846
+Pulaski County,Kentucky,21199,3186,2454,4015
+Clinton County,New York,36019,3210,2590,3935
+White County,Arkansas,05145,3220,2329,4268
+Albemarle County,Virginia,51003,3226,2351,4323
+Laramie County,Wyoming,56021,3250,2747,3786
+Hunterdon County,New Jersey,34019,3254,2570,4065
+Augusta County,Virginia,51015,3272,2446,4196
+Hancock County,Indiana,18059,3278,2427,4189
+Aroostook County,Maine,23003,3280,2743,3876
+Columbus County,North Carolina,37047,3284,2259,4418
+Pittsylvania County,Virginia,51143,3291,2578,4073
+Sheboygan County,Wisconsin,55117,3291,2210,4508
+Belmont County,Ohio,39013,3294,2695,4000
+Henderson County,Texas,48213,3297,2076,4960
+Potter County,Texas,48375,3321,2083,4938
+Chemung County,New York,36015,3324,2588,4214
+Jefferson County,Ohio,39081,3327,2638,4115
+Pottawattamie County,Iowa,19155,3330,2530,4237
+Erie County,Ohio,39043,3345,2495,4270
+Fond Du Lac County,Wisconsin,55039,3345,2277,4663
+Campbell County,Kentucky,21037,3358,2467,4445
+Kendall County,Illinois,17093,3359,1999,5011
+Washington Parish,Louisiana,22117,3369,2558,4352
+Van Buren County,Michigan,26159,3370,2347,4707
+Colbert County,Alabama,01033,3381,2553,4341
+Walton County,Georgia,13297,3381,2304,4745
+Midland County,Texas,48329,3382,2055,4886
+Salem County,New Jersey,34033,3386,2920,3888
+Rockingham County,North Carolina,37157,3398,2144,5168
+Hunt County,Texas,48231,3403,2020,5082
+Greenwood County,South Carolina,45047,3404,2785,4077
+Pottawatomie County,Oklahoma,40125,3422,2630,4291
+Madison County,Mississippi,28089,3436,2420,4708
+Creek County,Oklahoma,40037,3448,2606,4409
+Surry County,North Carolina,37171,3450,2264,4958
+Halifax County,North Carolina,37083,3459,2304,4832
+Nassau County,Florida,12089,3462,2763,4286
+Hamblen County,Tennessee,47063,3469,2470,4640
+Marshall County,Alabama,01095,3475,2287,4793
+Allegan County,Michigan,26005,3476,2389,4828
+Midland County,Michigan,26111,3481,2426,4616
+Henry County,Virginia,51089,3483,2682,4479
+Kosciusko County,Indiana,18085,3504,2587,4453
+Wayne County,New York,36117,3514,2761,4469
+Moore County,North Carolina,37125,3525,2302,5015
+Santa Fe County,New Mexico,35049,3548,2741,4425
+Lasalle County,Illinois,17099,3552,2327,5192
+Grant County,Indiana,18053,3553,2707,4526
+Lowndes County,Mississippi,28087,3554,2801,4434
+Wayne County,Indiana,18177,3556,2686,4503
+St. Landry Parish,Louisiana,22097,3559,2491,4799
+Cape Girardeau County,Missouri,29031,3563,2633,4608
+Gadsden County,Florida,12039,3571,3076,4112
+Oconee County,South Carolina,45073,3574,2742,4451
+Crawford County,Pennsylvania,42039,3576,2428,5016
+Ross County,Ohio,39141,3580,2802,4452
+Josephine County,Oregon,41033,3586,2637,4848
+Columbia County,Florida,12023,3591,3019,4181
+Johnson County,Iowa,19103,3595,2770,4569
+Lawrence County,Pennsylvania,42073,3615,2455,4870
+Wagoner County,Oklahoma,40145,3622,2645,4686
+Grays Harbor County,Washington,53027,3622,2755,4612
+Floyd County,Georgia,13115,3633,2459,5133
+Burke County,North Carolina,37023,3633,2344,4968
+Pike County,Kentucky,21195,3637,2926,4409
+Wilson County,North Carolina,37195,3642,2429,5191
+Coconino County,Arizona,04005,3662,2913,4488
+Washington County,Rhode Island,44009,3675,3080,4293
+Orange County,North Carolina,37135,3677,2428,5406
+Elmore County,Alabama,01051,3682,2582,4829
+Cecil County,Maryland,24015,3682,3054,4404
+Lawrence County,Ohio,39087,3693,3044,4407
+Pennington County,South Dakota,46103,3693,3084,4368
+Calvert County,Maryland,24009,3698,3004,4435
+Buchanan County,Missouri,29021,3702,2881,4620
+Monroe County,Indiana,18105,3718,2826,4863
+Georgetown County,South Carolina,45043,3721,3060,4437
+Floyd County,Indiana,18043,3725,2847,4707
+Gregg County,Texas,48183,3742,2214,5658
+Alexandria City,Virginia,51510,3747,2664,5162
+Bay County,Michigan,26017,3750,2649,5101
+Walker County,Georgia,13295,3756,2540,5124
+Washington County,Wisconsin,55131,3767,2461,5326
+Comal County,Texas,48091,3779,2334,5546
+Cass County,Missouri,29037,3787,2821,4967
+Adams County,Pennsylvania,42001,3791,2453,5426
+Warren County,New Jersey,34041,3798,3107,4610
+Taylor County,Texas,48441,3798,2311,5413
+Faulkner County,Arkansas,05045,3804,2799,5037
+Macon County,Illinois,17115,3808,2317,5577
+Platte County,Missouri,29165,3841,2785,5211
+Orange County,Texas,48361,3841,2470,5370
+Clarke County,Georgia,13059,3845,2650,5446
+Lauderdale County,Mississippi,28075,3851,3061,4767
+Cattaraugus County,New York,36009,3854,3065,4648
+Bowie County,Texas,48037,3859,2347,5691
+Chittenden County,Vermont,50007,3865,3183,4566
+Rockdale County,Georgia,13247,3869,2551,5650
+Scott County,Minnesota,27139,3872,3000,4914
+Randall County,Texas,48381,3875,2321,5912
+Apache County,Arizona,04001,3882,3276,4508
+Allegany County,Maryland,24001,3882,3315,4575
+Cape May County,New Jersey,34009,3889,3198,4668
+Tuscarawas County,Ohio,39157,3892,3025,4834
+Bartow County,Georgia,13015,3894,2588,5700
+Eaton County,Michigan,26045,3895,2767,5247
+Greene County,Tennessee,47059,3908,2895,5146
+Caldwell County,North Carolina,37027,3923,2592,5471
+Lee County,Mississippi,28081,3927,3058,4892
+Tom Green County,Texas,48451,3928,2515,5624
+Jefferson County,Arkansas,05069,3930,3152,4762
+Monongalia County,West Virginia,54061,3931,3161,4821
+Yamhill County,Oregon,41071,3934,2843,5157
+Hampshire County,Massachusetts,25015,3969,2770,5364
+Jones County,Mississippi,28067,3973,3059,4946
+Lafourche Parish,Louisiana,22057,3976,2999,5082
+Carroll County,Georgia,13045,3985,2735,5672
+Ector County,Texas,48135,3993,2540,5982
+Stafford County,Virginia,51179,3997,2742,5352
+Craighead County,Arkansas,05031,4003,2936,5228
+Limestone County,Alabama,01083,4024,2857,5551
+Skagit County,Washington,53057,4027,3037,5183
+St. Clair County,Alabama,01115,4031,2924,5117
+Roanoke City,Virginia,51770,4041,2921,5146
+Northumberland County,Pennsylvania,42097,4044,2747,5423
+Warren County,Kentucky,21227,4047,3035,5221
+Sandoval County,New Mexico,35043,4084,3153,5089
+Roanoke County,Virginia,51161,4093,3197,5193
+Comanche County,Oklahoma,40031,4110,3181,5008
+Suffolk City,Virginia,51800,4110,3043,5453
+Rogers County,Oklahoma,40131,4117,3112,5232
+Darlington County,South Carolina,45031,4132,3361,5049
+Glynn County,Georgia,13127,4165,2877,5599
+Kings County,California,06031,4175,2717,6117
+St. Lawrence County,New York,36089,4175,3420,5051
+Lenawee County,Michigan,26091,4179,3078,5516
+Whitfield County,Georgia,13313,4185,3013,5564
+Scioto County,Ohio,39145,4210,3393,5121
+Howard County,Indiana,18067,4222,3251,5225
+Oswego County,New York,36075,4240,3294,5340
+Putnam County,Florida,12107,4243,3495,5073
+Nash County,North Carolina,37127,4246,2734,6168
+Arlington County,Virginia,51013,4256,3077,5819
+Androscoggin County,Maine,23001,4257,3551,5021
+Kankakee County,Illinois,17091,4258,2743,6114
+Clark County,Indiana,18019,4259,3186,5432
+Jasper County,Missouri,29097,4259,2973,5856
+Hanover County,Virginia,51085,4265,3171,5525
+Ashtabula County,Ohio,39007,4268,3126,5562
+Cowlitz County,Washington,53015,4274,3434,5205
+Victoria County,Texas,48469,4275,2742,6114
+Harrison County,West Virginia,54033,4285,3408,5175
+Cleveland County,North Carolina,37045,4291,2756,5986
+Middlesex County,Connecticut,09007,4301,3422,5241
+Steuben County,New York,36101,4302,3329,5423
+Allen County,Ohio,39003,4302,3340,5398
+Spotsylvania County,Virginia,51177,4303,3046,5813
+Bullitt County,Kentucky,21029,4315,3213,5468
+Daviess County,Kentucky,21059,4325,3407,5325
+Bedford County,Virginia,51019,4325,3232,5567
+Olmsted County,Minnesota,27109,4334,3403,5261
+Mckinley County,New Mexico,35031,4362,3791,5017
+Raleigh County,West Virginia,54081,4366,3609,5195
+Humboldt County,California,06023,4402,2902,6041
+Ontario County,New York,36069,4409,3472,5473
+Mesa County,Colorado,08077,4414,3497,5480
+Marathon County,Wisconsin,55073,4421,3228,5886
+Wayne County,Ohio,39169,4436,2954,6252
+Miami County,Ohio,39109,4444,3104,5929
+Washington County,Utah,49053,4458,3482,5381
+Ascension Parish,Louisiana,22005,4464,3230,5986
+Lycoming County,Pennsylvania,42081,4468,3263,5949
+Cullman County,Alabama,01043,4473,3257,5777
+Fayette County,Georgia,13113,4476,3025,6300
+Sevier County,Tennessee,47155,4477,3056,6185
+Stearns County,Minnesota,27145,4508,3730,5482
+Angelina County,Texas,48005,4525,3860,5405
+Strafford County,New Hampshire,33017,4537,3828,5274
+St. Marys County,Maryland,24037,4538,3801,5345
+Franklin County,Missouri,29071,4554,3348,6081
+Tangipahoa Parish,Louisiana,22105,4555,3343,5884
+Berkshire County,Massachusetts,25003,4563,3348,6014
+Columbiana County,Ohio,39029,4573,3343,6047
+Centre County,Pennsylvania,42027,4597,3339,6169
+Windham County,Connecticut,09015,4598,3904,5418
+Vigo County,Indiana,18167,4602,3665,5753
+Jefferson County,New York,36045,4604,3764,5485
+Tolland County,Connecticut,09013,4610,3855,5459
+Muskingum County,Ohio,39119,4614,3779,5619
+Blair County,Pennsylvania,42013,4621,3068,6265
+Lauderdale County,Alabama,01077,4629,3587,5829
+Garland County,Arkansas,05051,4643,3586,5847
+Sussex County,New Jersey,34037,4672,3787,5600
+Hardin County,Kentucky,21093,4681,3747,5778
+Berkeley County,West Virginia,54003,4692,3757,5804
+Henderson County,North Carolina,37089,4698,3178,6420
+Cass County,North Dakota,38017,4711,4013,5435
+Linn County,Oregon,41043,4716,3566,6061
+Wicomico County,Maryland,24045,4732,4013,5468
+Randolph County,North Carolina,37151,4733,3001,6940
+Tazewell County,Illinois,17179,4744,3269,6758
+Kootenai County,Idaho,16055,4745,3860,5804
+Pickens County,South Carolina,45077,4761,3406,6127
+Livingston Parish,Louisiana,22063,4769,3492,6098
+Craven County,North Carolina,37049,4793,3429,6341
+Napa County,California,06055,4838,3152,6969
+Grayson County,Texas,48181,4841,2944,7221
+Kennebec County,Maine,23011,4846,4068,5691
+Laporte County,Indiana,18091,4861,3903,5979
+Canadian County,Oklahoma,40017,4864,3902,5898
+Flagler County,Florida,12035,4883,3968,5898
+Cabell County,West Virginia,54011,4885,3995,5840
+Guadalupe County,Texas,48187,4893,3245,7153
+Cochise County,Arizona,04003,4903,3996,5880
+Yellowstone County,Montana,30111,4911,4069,5867
+Morgan County,Alabama,01103,4918,3503,6599
+Terrebonne Parish,Louisiana,22109,4920,3844,6099
+Wilson County,Tennessee,47189,4922,3107,6973
+Fairfield County,Ohio,39045,4941,3535,6651
+Boone County,Kentucky,21015,4958,3798,6230
+Wood County,Ohio,39173,4963,3661,6416
+Blount County,Tennessee,47009,4966,3339,6842
+Kenosha County,Wisconsin,55059,4967,3479,6746
+Merrimack County,New Hampshire,33013,4986,4164,5821
+Delaware County,Indiana,18035,4995,3918,6125
+Harnett County,North Carolina,37085,4999,3438,7010
+Madison County,Tennessee,47113,5004,4199,5822
+Portsmouth City,Virginia,51740,5019,3949,6346
+Dougherty County,Georgia,13095,5035,3723,6861
+Bossier Parish,Louisiana,22015,5053,3587,6809
+Minnehaha County,South Dakota,46099,5059,4184,6036
+Boone County,Missouri,29019,5065,3787,6666
+Talladega County,Alabama,01121,5075,3942,6178
+Lebanon County,Pennsylvania,42075,5076,3476,7210
+Bradley County,Tennessee,47011,5108,3800,6663
+St. Clair County,Michigan,26147,5122,3617,6761
+Douglas County,Oregon,41019,5162,3928,6496
+Saline County,Arkansas,05125,5186,3917,6550
+Coweta County,Georgia,13077,5186,3468,7344
+Lee County,Alabama,01081,5213,3731,6966
+Houston County,Georgia,13153,5261,3368,7452
+Columbia County,Georgia,13073,5263,3822,7219
+Wood County,West Virginia,54107,5275,4353,6224
+Paulding County,Georgia,13223,5283,3479,7656
+Imperial County,California,06025,5287,3268,7717
+Ulster County,New York,36111,5290,3919,6728
+Madera County,California,06039,5302,3462,7486
+Monroe County,Pennsylvania,42089,5310,3427,7559
+Johnson County,Indiana,18081,5332,4244,6653
+Winnebago County,Wisconsin,55139,5356,3744,7206
+Yolo County,California,06113,5357,3536,7357
+Hendricks County,Indiana,18063,5401,4245,6731
+Chautauqua County,New York,36013,5402,4382,6416
+Sarpy County,Nebraska,31153,5408,4480,6357
+Douglas County,Colorado,08035,5413,4304,6792
+San Juan County,New Mexico,35045,5421,4784,6082
+Johnson County,Texas,48251,5425,3506,8134
+Boulder County,Colorado,08013,5451,4313,6665
+Black Hawk County,Iowa,19013,5455,4415,6573
+Lancaster County,South Carolina,45057,5487,4514,6523
+Sumter County,South Carolina,45085,5496,4600,6518
+Schenectady County,New York,36093,5541,4349,6968
+Tippecanoe County,Indiana,18157,5548,4376,6887
+Schuylkill County,Pennsylvania,42107,5550,3560,7974
+Carroll County,Maryland,24013,5562,4413,6871
+Houston County,Alabama,01069,5563,4393,6806
+Deschutes County,Oregon,41017,5575,4075,7191
+Rankin County,Mississippi,28121,5581,4154,7494
+Mclean County,Illinois,17113,5586,3722,7973
+Martin County,Florida,12085,5587,4250,6958
+Delaware County,Ohio,39041,5601,4374,6862
+Rensselaer County,New York,36083,5656,4420,7179
+Newton County,Georgia,13217,5679,3744,7653
+Mercer County,Pennsylvania,42085,5681,4048,7499
+Lowndes County,Georgia,13185,5690,4206,7483
+Richland County,Ohio,39139,5696,4481,6890
+Sebastian County,Arkansas,05131,5710,4548,6940
+Butler County,Pennsylvania,42019,5727,3860,7955
+Douglas County,Georgia,13097,5735,3831,8197
+Onslow County,North Carolina,37133,5767,4177,7820
+El Dorado County,California,06017,5770,3728,8266
+Livingston County,Michigan,26093,5818,4566,7405
+Monroe County,Michigan,26115,5830,4220,7698
+Washington County,Tennessee,47179,5831,4439,7385
+Brazos County,Texas,48041,5848,4777,6992
+Rowan County,North Carolina,37159,5852,3948,8323
+Fayette County,Pennsylvania,42051,5865,3909,8390
+Navajo County,Arizona,04017,5900,5018,6833
+Benton County,Washington,53005,5904,4727,7326
+Sumner County,Tennessee,47165,5945,4032,8273
+Kenton County,Kentucky,21117,6005,4626,7592
+Etowah County,Alabama,01055,6025,4902,7394
+Webb County,Texas,48479,6056,3515,9302
+Pueblo County,Colorado,08101,6060,4844,7463
+Racine County,Wisconsin,55101,6062,4467,7988
+Medina County,Ohio,39103,6085,4270,8230
+Portage County,Ohio,39133,6092,4511,7937
+Calhoun County,Michigan,26025,6098,4537,7767
+Indian River County,Florida,12061,6099,4782,7584
+Wichita County,Texas,48485,6102,5201,7022
+Franklin County,Pennsylvania,42055,6114,4103,8531
+Dorchester County,South Carolina,45035,6118,5003,7290
+Cambria County,Pennsylvania,42021,6135,4230,8456
+Litchfield County,Connecticut,09005,6140,4996,7353
+Maui County,Hawaii,15009,6174,5456,6982
+Rock County,Wisconsin,55105,6184,4512,8164
+Beaufort County,South Carolina,45013,6200,5174,7285
+Hays County,Texas,48209,6235,4528,8333
+Williamson County,Tennessee,47187,6242,4273,8998
+Forsyth County,Georgia,13117,6324,4152,9262
+Kent County,Rhode Island,44003,6352,5571,7252
+New Hanover County,North Carolina,37129,6353,4500,8565
+Clark County,Ohio,39023,6367,4759,8174
+St. Louis County,Minnesota,27137,6394,5309,7583
+Highlands County,Florida,12055,6398,5416,7502
+Pitt County,North Carolina,37147,6453,4758,8426
+Marin County,California,06041,6494,4284,9052
+Brunswick County,North Carolina,37019,6513,4615,8814
+Peoria County,Illinois,17143,6531,4387,9022
+Berrien County,Michigan,26021,6569,5009,8525
+Alamance County,North Carolina,37001,6584,4445,9245
+Catawba County,North Carolina,37035,6591,4561,9091
+Iredell County,North Carolina,37097,6597,4403,9442
+Washington County,Minnesota,27163,6610,5415,7816
+Whatcom County,Washington,53073,6640,5195,8185
+Weber County,Utah,49057,6649,5619,7764
+Porter County,Indiana,18127,6698,5356,8053
+Scott County,Iowa,19163,6721,5380,8093
+Orangeburg County,South Carolina,45075,6743,5917,7704
+Wayne County,North Carolina,37191,6749,5158,8950
+Ellis County,Texas,48139,6751,5756,7860
+Champaign County,Illinois,17019,6759,4491,9434
+Shasta County,California,06089,6778,4489,9042
+Larimer County,Colorado,08069,6795,5442,8175
+Penobscot County,Maine,23019,6812,5853,7817
+Jackson County,Mississippi,28059,6847,5529,8482
+Cumberland County,New Jersey,34011,6890,5868,8171
+Washington County,Arkansas,05143,6947,5711,8511
+Charles County,Maryland,24017,6960,5992,8123
+Outagamie County,Wisconsin,55087,6985,5144,8987
+Rock Island County,Illinois,17161,6996,4894,9434
+Calhoun County,Alabama,01015,7005,5682,8385
+Jackson County,Michigan,26075,7008,5797,8407
+Montgomery County,Tennessee,47125,7023,5201,9320
+Clermont County,Ohio,39025,7127,4958,9579
+Union County,North Carolina,37179,7134,4696,10257
+Beaver County,Pennsylvania,42007,7149,5061,9769
+Canyon County,Idaho,16027,7150,5944,8561
+Greene County,Ohio,39057,7173,5431,9218
+Rapides Parish,Louisiana,22079,7177,5619,8806
+Santa Rosa County,Florida,12113,7215,5885,8680
+Lubbock County,Texas,48303,7218,4629,10264
+Broome County,New York,36007,7226,5816,8909
+Benton County,Arkansas,05007,7270,5776,8765
+St. Johns County,Florida,12109,7310,5784,8963
+Saratoga County,New York,36091,7325,5843,9010
+Barnstable County,Massachusetts,25001,7328,5524,9211
+Cabarrus County,North Carolina,37025,7359,4987,10187
+Shelby County,Alabama,01117,7373,5550,9568
+Shawnee County,Kansas,20177,7394,6540,8307
+Vanderburgh County,Indiana,18163,7409,5977,8909
+Licking County,Ohio,39089,7424,5606,9551
+Desoto County,Mississippi,28033,7427,5833,9154
+Madison County,Indiana,18095,7499,6156,9035
+Weld County,Colorado,08123,7501,6235,8992
+Doña Ana County,New Mexico,35013,7510,6284,8974
+Kitsap County,Washington,53035,7515,5917,9285
+Jackson County,Oregon,41029,7539,5913,9246
+Linn County,Iowa,19113,7589,6108,9180
+Santa Cruz County,California,06087,7591,5329,10321
+Washington County,Maryland,24043,7638,6658,8609
+Citrus County,Florida,12017,7640,6200,9283
+Lake County,Ohio,39085,7663,5539,10509
+Wyandotte County,Kansas,20209,7692,6903,8570
+Muskegon County,Michigan,26121,7693,6445,9104
+Warren County,Ohio,39165,7695,5667,9891
+Elkhart County,Indiana,18039,7710,6117,9363
+Hall County,Georgia,13139,7826,5366,10575
+York County,Maine,23031,7899,6863,8958
+Sumter County,Florida,12119,7912,6416,9711
+Hawaii County,Hawaii,15001,7929,7078,8814
+Ouachita Parish,Louisiana,22073,7972,6497,9646
+Johnston County,North Carolina,37101,7980,5526,10895
+Lackawanna County,Pennsylvania,42069,7988,5584,10770
+Butte County,California,06007,8131,5707,11295
+Hampton City,Virginia,51650,8132,6597,9662
+Bibb County,Georgia,13021,8142,5811,10807
+Durham County,North Carolina,37063,8288,5724,11511
+San Luis Obispo County,California,06079,8310,5566,11342
+Robeson County,North Carolina,37155,8310,6706,10184
+Bay County,Florida,12005,8321,6900,9783
+Sangamon County,Illinois,17167,8379,5678,11471
+Davis County,Utah,49011,8388,7152,9758
+Sullivan County,Tennessee,47163,8400,6982,9886
+Brown County,Wisconsin,55009,8432,6315,10806
+Calcasieu Parish,Louisiana,22019,8457,6766,10373
+Loudoun County,Virginia,51107,8531,6172,11369
+Baldwin County,Alabama,01003,8538,6862,10489
+Yakima County,Washington,53077,8548,7129,10109
+Frederick County,Maryland,24021,8551,7405,9808
+Lancaster County,Nebraska,31109,8571,7496,9793
+Anchorage Municipality,Alaska,02020,8602,7011,10224
+Lafayette Parish,Louisiana,22055,8628,6644,10927
+Gaston County,North Carolina,37071,8675,6066,11831
+Florence County,South Carolina,45041,8694,7377,10234
+Washington County,Pennsylvania,42125,8739,6381,11333
+Buncombe County,North Carolina,37021,8745,6415,11406
+Ottawa County,Michigan,26139,8763,6793,11198
+Rockingham County,New Hampshire,33015,8767,7408,10145
+Yuma County,Arizona,04027,8792,7042,10868
+Saginaw County,Michigan,26145,8793,7032,10595
+Cherokee County,Georgia,13057,8797,6152,11850
+Okaloosa County,Florida,12091,8799,7251,10570
+Harrison County,Mississippi,28047,8809,7120,10641
+Aiken County,South Carolina,45003,8838,7610,10129
+Mclennan County,Texas,48309,8838,5808,12824
+Kent County,Delaware,10001,8880,8060,9836
+Cumberland County,Maine,23005,8895,7808,10044
+Davidson County,North Carolina,37057,8963,6453,12016
+Hamilton County,Indiana,18057,8998,7290,10727
+Somerset County,New Jersey,34035,9001,7175,10984
+Jefferson County,Missouri,29099,9078,7116,11621
+Clay County,Florida,12019,9174,7563,10953
+Clay County,Missouri,29047,9232,7259,11444
+New London County,Connecticut,09011,9381,8096,10736
+St. Joseph County,Indiana,18141,9394,7660,11354
+Washtenaw County,Michigan,26161,9420,7399,11595
+Cleveland County,Oklahoma,40027,9430,7604,11454
+Alachua County,Florida,12001,9521,7847,11434
+Leon County,Florida,12073,9537,7795,11539
+Yavapai County,Arizona,04025,9558,7885,11304
+Howard County,Maryland,24027,9568,7877,11418
+Richmond County,Georgia,13245,9604,7319,12076
+Charlotte County,Florida,12015,9630,7861,11742
+Erie County,Pennsylvania,42049,9631,7261,12325
+Henry County,Georgia,13151,9648,7049,12865
+Tuscaloosa County,Alabama,01125,9653,8113,11277
+Muscogee County,Georgia,13215,9668,7460,12123
+Cumberland County,Pennsylvania,42041,9677,6923,12887
+Niagara County,New York,36063,9809,7793,12274
+Rockland County,New York,36087,9815,7703,12077
+Smith County,Texas,48423,9832,6902,13215
+Mchenry County,Illinois,17111,9853,7167,13106
+Mohave County,Arizona,04015,9897,8072,11752
+Kalamazoo County,Michigan,26077,9911,7567,12417
+Newport News City,Virginia,51700,9983,7813,12380
+St. Tammany Parish,Louisiana,22103,9987,7905,12260
+Dutchess County,New York,36027,10020,7941,12346
+Albany County,New York,36001,10054,7893,12204
+Berkeley County,South Carolina,45015,10065,8547,11747
+Chatham County,Georgia,13051,10142,7497,12925
+Harford County,Maryland,24025,10216,8478,12047
+Anderson County,South Carolina,45007,10228,8613,11756
+Richmond City,Virginia,51760,10263,8153,12655
+Greene County,Missouri,29077,10314,7865,13195
+Thurston County,Washington,53067,10513,8700,12660
+Anoka County,Minnesota,27003,10516,8782,12217
+Hernando County,Florida,12053,10574,8668,12598
+Madison County,Illinois,17119,10595,7718,13864
+Trumbull County,Ohio,39155,10600,8190,13154
+St. Clair County,Illinois,17163,10613,7311,14240
+Oneida County,New York,36065,10686,8814,12913
+Merced County,California,06047,10829,7425,15110
+Sussex County,Delaware,10005,10950,9726,12085
+Utah County,Utah,49049,10962,9507,12630
+Dauphin County,Pennsylvania,42043,11008,8064,14547
+Ingham County,Michigan,26065,11024,8904,13288
+Winnebago County,Illinois,17201,11032,8133,14666
+Fayette County,Kentucky,21067,11051,8728,13662
+York County,South Carolina,45091,11061,9389,12972
+Dakota County,Minnesota,27037,11097,9329,12880
+Gloucester County,New Jersey,34015,11255,9398,13494
+Norfolk City,Virginia,51710,11267,9273,13513
+Placer County,California,06061,11273,8084,15153
+Chesapeake City,Virginia,51550,11304,9215,13522
+Mahoning County,Ohio,39099,11568,9298,13950
+Brazoria County,Texas,48039,11872,8554,16316
+Jefferson County,Texas,48245,11899,8936,15813
+Clayton County,Georgia,13063,11939,9445,14684
+Jefferson County,Colorado,08059,11979,10094,13986
+Kanawha County,West Virginia,54039,12030,10501,13383
+Henrico County,Virginia,51087,12035,9581,14793
+Washoe County,Nevada,32031,12124,10574,14150
+Mercer County,New Jersey,34021,12276,10169,14575
+Bell County,Texas,48027,12287,8692,16903
+Luzerne County,Pennsylvania,42079,12288,9201,16319
+St. Charles County,Missouri,29183,12292,9417,15793
+Waukesha County,Wisconsin,55133,12293,9072,15628
+Lane County,Oregon,41039,12306,10003,15002
+Rutherford County,Tennessee,47149,12441,9496,16017
+Marion County,Oregon,41047,12466,10110,14873
+Dane County,Wisconsin,55025,12632,9435,16365
+Ada County,Idaho,16001,12682,10615,15288
+Lexington County,South Carolina,45063,12739,10713,14956
+Atlantic County,New Jersey,34001,12791,10836,15083
+Northampton County,Pennsylvania,42095,12830,9690,16648
+Montgomery County,Alabama,01101,12966,10669,15624
+Lorain County,Ohio,39093,12967,10043,16770
+Hinds County,Mississippi,28049,12985,10614,15494
+Adams County,Colorado,08001,12987,11146,15124
+Collier County,Florida,12021,13020,10241,15954
+Chesterfield County,Virginia,51041,13199,10774,15673
+Caddo Parish,Louisiana,22017,13212,10836,15857
+Clackamas County,Oregon,41005,13230,10908,16050
+Allen County,Indiana,18003,13319,11260,15548
+Galveston County,Texas,48167,13407,11390,15711
+St. Lucie County,Florida,12111,13576,11122,15987
+Morris County,New Jersey,34027,13759,11181,16466
+Sonoma County,California,06097,13821,10293,18140
+Monterey County,California,06053,13843,9896,18553
+Hillsborough County,New Hampshire,33011,13850,12363,15373
+Orange County,New York,36071,14015,11412,16833
+Spartanburg County,South Carolina,45083,14085,11844,16356
+Santa Barbara County,California,06083,14232,10171,18650
+Prince William County,Virginia,51153,14249,11163,17581
+Cumberland County,North Carolina,37051,14322,11467,17596
+Horry County,South Carolina,45051,14490,12624,16566
+Sarasota County,Florida,12115,14525,11630,17954
+Denver County,Colorado,08031,14528,12379,16739
+Butler County,Ohio,39017,14854,11614,18363
+St. Louis City,Missouri,29510,14860,12544,17382
+Chester County,Pennsylvania,42029,14939,10293,20036
+Westmoreland County,Pennsylvania,42129,15050,11287,19098
+Osceola County,Florida,12097,15081,12244,18114
+Polk County,Iowa,19153,15083,13013,17285
+Forsyth County,North Carolina,37067,15426,12047,19699
+Nueces County,Texas,48355,15479,13144,18114
+Escambia County,Florida,12033,15480,12956,18033
+Tulare County,California,06107,15522,11165,20934
+Lake County,Florida,12069,15662,12985,18459
+Manatee County,Florida,12081,15697,12854,18710
+Lehigh County,Pennsylvania,42077,15790,11835,20169
+Virginia Beach City,Virginia,51810,15901,12888,19010
+El Paso County,Colorado,08041,15907,13550,18135
+Berks County,Pennsylvania,42011,15960,11259,21327
+Johnson County,Kansas,20091,15967,14399,17601
+Ramsey County,Minnesota,27123,16158,14010,18466
+Stark County,Ohio,39151,16168,13103,19915
+Arapahoe County,Colorado,08005,16218,13858,18671
+Montgomery County,Texas,48339,16346,10745,23083
+Seminole County,Florida,12117,16396,12859,20445
+Spokane County,Washington,53063,16650,14324,19272
+Williamson County,Texas,48491,16667,13393,20560
+Solano County,California,06095,16929,12348,22577
+Washington County,Oregon,41067,16947,13997,20138
+Passaic County,New Jersey,34031,16981,13815,20367
+Madison County,Alabama,01089,17058,13996,20859
+Cameron County,Texas,48061,17182,13447,21983
+Union County,New Jersey,34039,17211,13933,20408
+Clark County,Washington,53011,17275,14845,19748
+Hamilton County,Tennessee,47065,17416,14570,20509
+Kane County,Illinois,17089,17615,13228,22858
+Charleston County,South Carolina,45019,17938,15690,20583
+Richland County,South Carolina,45079,17950,15457,20464
+York County,Pennsylvania,42133,18044,13803,23052
+Knox County,Tennessee,47093,18062,14921,22037
+Lancaster County,Pennsylvania,42071,18179,12922,24444
+Delaware County,Pennsylvania,42045,18311,13010,24873
+Onondaga County,New York,36067,18437,15289,21949
+Hampden County,Massachusetts,25013,18536,15646,21451
+Pinal County,Arizona,04021,18561,16188,21202
+Orleans Parish,Louisiana,22071,18597,15049,22497
+Douglas County,Nebraska,31055,18730,16759,20986
+Burlington County,New Jersey,34005,18917,15775,22210
+Marion County,Florida,12083,19066,15986,22603
+Pulaski County,Arkansas,05119,19068,16769,21885
+Bernalillo County,New Mexico,35001,19081,16266,22501
+Richmond County,New York,36085,19211,15569,23067
+Sedgwick County,Kansas,20173,19333,17873,21039
+Plymouth County,Massachusetts,25023,19422,16335,23180
+Genesee County,Michigan,26049,19479,16283,22848
+Anne Arundel County,Maryland,24003,19835,17276,22334
+Lake County,Illinois,17097,20061,15348,25511
+Kent County,Michigan,26081,20179,16827,23796
+Greenville County,South Carolina,45045,20190,17356,23436
+Monmouth County,New Jersey,34025,20218,16260,24551
+Lucas County,Ohio,39095,20379,17569,23276
+Guilford County,North Carolina,37081,20411,15812,25611
+Stanislaus County,California,06099,20991,16299,26680
+Bucks County,Pennsylvania,42017,21307,15251,28027
+Hudson County,New Jersey,34017,21362,17851,25120
+Norfolk County,Massachusetts,25021,21784,18154,26019
+East Baton Rouge Parish,Louisiana,22033,21819,18289,25528
+Bristol County,Massachusetts,25005,22311,18954,26186
+New Castle County,Delaware,10003,22445,20183,24986
+San Mateo County,California,06081,22703,16017,29539
+Jefferson Parish,Louisiana,22051,22722,18532,27067
+Mobile County,Alabama,01097,22728,20087,25627
+Fort Bend County,Texas,48157,22916,15015,32353
+Summit County,Ohio,39153,23611,19612,27909
+Denton County,Texas,48121,23664,16613,32449
+Providence County,Rhode Island,44007,23774,21807,25740
+Snohomish County,Washington,53061,23810,20814,27099
+San Francisco County,California,06075,23969,17816,31043
+Ocean County,New Jersey,34029,23997,19909,28180
+Lake County,Indiana,18089,24095,20978,27422
+Tulsa County,Oklahoma,40143,24583,21670,27964
+Montgomery County,Pennsylvania,42091,24689,18553,31800
+Multnomah County,Oregon,41051,24750,20973,28826
+San Joaquin County,California,06077,24765,18480,32139
+Fairfield County,Connecticut,09001,24887,22461,27409
+Montgomery County,Ohio,39113,25166,20954,29596
+Volusia County,Florida,12127,25216,21165,29696
+Pasco County,Florida,12101,25282,21430,29537
+Monroe County,New York,36055,25361,20926,30645
+Camden County,New Jersey,34007,25505,21857,29379
+Salt Lake County,Utah,49035,25603,22909,28617
+Dekalb County,Georgia,13089,25741,20390,31791
+Davidson County,Tennessee,47037,26009,21402,31684
+District Of Columbia,District of Columbia,11001,26042,24365,27815
+Will County,Illinois,17197,26063,20900,32050
+Cobb County,Georgia,13067,26129,20687,31643
+Suffolk County,Massachusetts,25025,26526,22937,30249
+Fairfax County,Virginia,51059,26633,21230,32554
+Hennepin County,Minnesota,27053,27216,24252,30369
+Worcester County,Massachusetts,25027,27622,23502,31620
+Collin County,Texas,48085,27642,19632,36636
+Kern County,California,06029,27777,21108,34394
+Essex County,Massachusetts,25009,28522,24554,32463
+Dupage County,Illinois,17043,28641,22747,35140
+Montgomery County,Maryland,24031,29218,25708,32803
+Brevard County,Florida,12009,29320,24403,34317
+Jackson County,Missouri,29095,29570,25517,33502
+Ventura County,California,06111,29777,22939,36976
+Pierce County,Washington,53053,29797,26222,33804
+Hidalgo County,Texas,48215,30092,23636,37299
+Westchester County,New York,36119,30191,25352,35688
+New Haven County,Connecticut,09009,31022,28315,34065
+Middlesex County,New Jersey,34023,31054,25410,37148
+Pima County,Arizona,04019,31406,27909,35110
+Travis County,Texas,48453,31766,27310,36436
+Lee County,Florida,12071,31842,26564,37549
+El Paso County,Texas,48141,31935,24817,39402
+Bergen County,New Jersey,34003,32104,26016,38569
+Baltimore City,Maryland,24510,32519,28651,36386
+Polk County,Florida,12105,32858,27912,38638
+Oklahoma County,Oklahoma,40109,32878,29237,36668
+Baltimore County,Maryland,24005,33371,30022,36684
+Essex County,New Jersey,34013,34540,30625,38457
+Jefferson County,Alabama,01073,34773,30085,39667
+Hartford County,Connecticut,09003,34913,32216,37775
+Fresno County,California,06019,35331,27712,43635
+Milwaukee County,Wisconsin,55079,35461,31034,40249
+Hamilton County,Ohio,39061,35648,30811,41157
+Macomb County,Michigan,26099,35850,30726,41357
+Jefferson County,Kentucky,21111,36399,33365,39855
+Fulton County,Georgia,13121,36481,29831,43230
+Gwinnett County,Georgia,13135,36648,29362,44110
+Wake County,North Carolina,37183,36657,30024,44152
+Erie County,New York,36029,37888,32021,43932
+Contra Costa County,California,06013,38027,29004,47204
+Mecklenburg County,North Carolina,37119,38889,32026,46738
+Honolulu County,Hawaii,15003,39262,36346,42419
+Pinellas County,Florida,12103,39426,32360,47793
+Alameda County,California,06001,41391,32480,50981
+Shelby County,Tennessee,47157,41723,35086,48993
+Oakland County,Michigan,26125,42067,36232,48131
+Duval County,Florida,12031,42197,36465,48548
+Nassau County,New York,36059,42556,35006,49693
+Allegheny County,Pennsylvania,42003,43923,36894,50991
+St. Louis County,Missouri,29189,43938,38905,49295
+Suffolk County,New York,36103,44938,37445,53837
+Marion County,Indiana,18097,45088,41025,49390
+Middlesex County,Massachusetts,25017,45168,39800,51166
+Prince Georges County,Maryland,24033,46049,41616,50299
+Orange County,Florida,12095,46520,39098,54835
+Franklin County,Ohio,39049,47113,41285,53242
+New York County,New York,36061,48789,42025,55784
+Hillsborough County,Florida,12057,50451,41842,59595
+Santa Clara County,California,06085,56043,44304,68764
+Palm Beach County,Florida,12099,57038,47378,67726
+Cuyahoga County,Ohio,39035,57159,49123,65952
+Sacramento County,California,06067,58273,49178,69026
+King County,Washington,53033,59150,53522,65071
+Bexar County,Texas,48029,63210,50842,75734
+Broward County,Florida,12011,67788,56934,79913
+Bronx County,New York,36005,73063,62911,83728
+Philadelphia County,Pennsylvania,42101,73630,63264,84199
+Dallas County,Texas,48113,75834,60775,94410
+Tarrant County,Texas,48439,76504,64274,89759
+San Bernardino County,California,06071,77200,65065,91185
+Wayne County,Michigan,26163,81212,72774,89397
+Riverside County,California,06065,83233,69734,98225
+Miami-Dade County,Florida,12086,84688,69442,103117
+Clark County,Nevada,32003,88142,77717,98246
+Queens County,New York,36081,97360,82994,111603
+San Diego County,California,06073,98816,83224,115825
+Kings County,New York,36047,107975,93616,122420
+Orange County,California,06059,111038,92426,129832
+Maricopa County,Arizona,04013,132935,122983,142247
+Harris County,Texas,48201,145635,123291,170402
+Cook County,Illinois,17031,190713,174616,208895
+Los Angeles County,California,06037,336593,295666,375530
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
